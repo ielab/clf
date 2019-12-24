@@ -1,0 +1,33 @@
+1. optical*.tw.
+2. coherence*.tw.
+3. tomograph*.tw.
+4. adj2/1-3
+5. tomography/
+6. tomography, optical coherence/
+7. ophthalmoscopy/
+8. OCT.tw.
+9. or/4-8
+10. CME.tw.
+11. CSME.tw.
+12. CMO.tw.
+13. CSMO.tw.
+14. or/10-13
+15. DMO.tw.
+16. DME.tw.
+17. 15 or 16
+18. macula*.tw.
+19. oedema.tw.
+20. 18 adj3 19
+21. macula*.tw.
+22. edema.tw.
+23. 21 adj3 22
+24. maculopath*.tw.
+25. exp macular edema/
+26. 14 or 17 or 20 or 23 or 24 or 25
+27. diabet*.tw.
+28. retinopath*.tw.
+29. exp diabetes mellitus/
+30. diabetic retinopathy/
+31. diabetes complications/
+32. or/27-31
+33. 9 and 26 and 32

@@ -1,0 +1,12 @@
+1. MDR-TB.ti,ab.
+2. XDR-TB.ti,ab.
+3. Mycobacterium tuberculosis/
+4. TB.ti,ab.
+5. tuberculosis.ti,ab.
+6. exp Tuberculosis, Pulmonary/
+7. exp Tuberculosis, Multidrug-Resistant/
+8. or/1-7
+9. MTBDR*.ti,ab.
+10. Genotype MTBDR*.ti,ab.
+11. 9 or 10
+12. 8 and 11

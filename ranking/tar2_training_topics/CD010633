@@ -1,0 +1,40 @@
+1. LDB.tw.
+2. DLB.tw.
+3. LBD.tw.
+4. or/1-3
+5. lewy*.tw.
+6. bod*.tw.
+7. 5 adj2 6
+8. Lewy Bodies/
+9. dement*.tw.
+10. Lewy Body Disease/
+11. 4 or 7 or 8 or 9 or 10
+12. "123I-β-CIT".tw.
+13. "[123I]β-CIT".tw.
+14. "[123I]beta-CIT".tw.
+15. or/12-14
+16. "[11C]/[18F]beta-CFT".tw.
+17. "[11C]/[18F]β-CFT".tw.
+18. 16 or 17
+19. "[11C]FE-CIT".tw.
+20. DAT scan*.tw.
+21. Dopaminergic Neurons/
+22. FP-CIT.tw.
+23. DaTSCAN.tw.
+24. "[123I]altropane".tw.
+25. SPET.tw.
+26. "single photon emission tomography".tw.
+27. "123I-FP-CIT".tw.
+28. "[99mTc]TRODAT-1".tw.
+29. "[123I]PE2I".tw.
+30. "[3H]WIN".tw.
+31. "[11C]dMP".tw.
+32. SPECT.tw.
+33. "[11C]cocaine".tw.
+34. "[11C]altropane".tw.
+35. "single photon emission computed tomography".tw.
+36. Dopamine Plasma Membrane Transport Proteins/
+37. "dopamine transporter".tw.
+38. Tomography, Emission-Computed, Single-Photon/
+39. 15 or 18 or 19 or 20 or 21 or 22 or 23 or 24 or 25 or 26 or 27 or 28 or 29 or 30 or 31 or 32 or 33 or 34 or 35 or 36 or 37 or 38
+40. 11 and 39

@@ -1,0 +1,72 @@
+1. PIB-PET.ti,ab.
+2. PET-PIB.ti,ab.
+3. 1 or 2
+4. scan*.ti,ab.
+5. imag*.ti,ab.
+6. 4 or 5
+7. PET.ti,ab.
+8. 6 and 7
+9. "positron emission tomography".ti,ab.
+10. 8 or 9
+11. PiB.ti,ab.
+12. PIB.ti,ab.
+13. 11 or 12
+14. "amyloid deposition".ti,ab.
+15. "[11C]PIB".ti,ab.
+16. Positron-Emission Tomography/
+17. "C Pittsburgh".ti,ab.
+18. "amyloid ligand*".ti,ab.
+19. "Pittsburgh compound B".ti,ab.
+20. 3 or 10 or 13 or 14 or 15 or 16 or 17 or 18 or 19
+21. alzheimer*.ti,ab.
+22. dement*.ti,ab.
+23. AD.ti,ab.
+24. lewy*.ti,ab.
+25. DLB.ti,ab.
+26. LBD.ti,ab.
+27. or/21-26
+28. cognit*.ti,ab.
+29. memory.ti,ab.
+30. cerebr*.ti,ab.
+31. mental*.ti,ab.
+32. or/28-31
+33. declin*.ti,ab.
+34. impair*.ti,ab.
+35. los*.ti,ab.
+36. deteriorat*.ti,ab.
+37. degenerat*.ti,ab.
+38. complain*.ti,ab.
+39. disturb*.ti,ab.
+40. disorder*.ti,ab.
+41. or/33-40
+42. 32 adj3 41
+43. "N-MCI".ti,ab.
+44. "A-MCI".ti,ab.
+45. "M-MCI".ti,ab.
+46. or/43-45
+47. "GDS 3".ti,ab.
+48. "3 GDS".ti,ab.
+49. 47 or 48
+50. "global deterioration scale".ti,ab.
+51. "stage 3".ti,ab.
+52. 50 and 51
+53. nMCI.ti,ab.
+54. aMCI.ti,ab.
+55. mMCI.ti,ab.
+56. or/53-55
+57. 56
+58. ACMI.ti,ab.
+59. ARCD.ti,ab.
+60. QD.ti,ab.
+61. MCD.ti,ab.
+62. exp dementia/
+63. MCI.ti,ab.
+64. SMC.ti,ab.
+65. CIND.ti,ab.
+66. BSF.ti,ab.
+67. AAMI.ti,ab.
+68. AACD.ti,ab.
+69. MNCD.ti,ab.
+70. LCD.ti,ab.
+71. 27 or 42 or 46 or 49 or 52 or 56 or 57 or 58 or 59 or 60 or 61 or 62 or 63 or 64 or 65 or 66 or 67 or 68 or 69 or 70
+72. 20 and 71

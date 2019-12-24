@@ -1,0 +1,36 @@
+1. invasive.tw.
+2. fungal.tw.
+3. 1 and 2
+4. "Aspergillus"/
+5. "Aspergillosis"/
+6. "Pulmonary Aspergillosis"/
+7. aspergill*.tw.
+8. fungal infection.tw.
+9. OR/3-8
+10. serology.tw.
+11. serodiagnosis.tw.
+12. serologic.tw.
+13. or/10-12
+14. "Serology"/
+15. Serology"/
+16. OR/13-15
+17. immunoassay.tw.
+18. immunoassays.tw.
+19. 17 or 18
+20. immuno assay.tw.
+21. immuno assays.tw.
+22. 20 or 21
+23. ELISA.tw.
+24. ELISAs.tw.
+25. EIA.tw.
+26. EIAs.tw.
+27. or/23-26
+28. "Immunoassay"/
+29. immunosorbent.tw.
+30. 19 OR 22 OR 27 OR 28 OR 29
+31. Platelia.tw.
+32. "Mannans"/
+33. galactomannan.tw.
+34. OR/31-33
+35. 16 OR 30 OR 34
+36. 9 AND 35

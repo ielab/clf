@@ -1,0 +1,22 @@
+1. exp magnetic resonance imaging/
+2. exp ultrasonography/
+3. exp Imaging, Three-Dimensional/
+4. exp radiography/
+5. or/1-4
+6. ultraso*.tw.
+7. magnetic resonance imaging.tw.
+8. MRI.tw.
+9. imag*.tw.
+10. or/6-9
+11. diagnos*.tw.
+12. 5 or 10 or 11
+13. Endometriosis/
+14. Endometrio*.tw.
+15. 13 or 14
+16. 12 and 15
+17. humans/
+18. animals/
+19. 17 and 18
+20. animals/
+21. 19 not 20
+22. 16 not 21

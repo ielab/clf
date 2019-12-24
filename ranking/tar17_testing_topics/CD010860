@@ -1,0 +1,10 @@
+1. cognition.ti,ab.
+2. dementia.ti,ab.
+3. screen*.ti,ab.
+4. Alzheimer*.ti,ab.
+5. or/1-4
+6. MCE.ti,ab.
+7. 5 and 6
+8. "mini-Cog".ti,ab.
+9. minicog.ti,ab.
+10. or/7-9

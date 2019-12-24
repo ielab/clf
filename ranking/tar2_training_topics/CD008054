@@ -1,0 +1,44 @@
+1. cervix.mp.
+2. cervical.mp.
+3. cervico*.mp.
+4. or/1-3
+5. cancer.mp.
+6. carcinoma.mp.
+7. neoplas*.mp.
+8. dysplas*.mp.
+9. squamous.mp.
+10. CIN.tw.
+11. CINII*.tw.
+12. CIN2*.tw.
+13. CINIII*.tw.
+14. CIN3.tw.
+15. SIL.tw.
+16. HSIL.tw.
+17. H-SIL.tw.
+18. LSIL.tw.
+19. L-SIL.mp.
+20. ASCUS.tw.
+21. ASC R.tw.
+22. ASC US.tw.
+23. ASC H.tw.
+24. or/5-23
+25. 4 and 24
+26. HPV.mp.
+27. human papillomavirus.mp.
+28. papillomaviridae.mp.
+29. papillomavirus infections.mh.
+30. hybrid capture.mp.
+31. HC2.mp.
+32. HC 2.mp.
+33. HCII.mp.
+34. HC II.mp.
+35. DNA.mp.
+36. viral.mp.
+37. virolog*.mp.
+38. or/26-37
+39. triage.mp.
+40. management.mp.
+41. followup.mp.
+42. follow up.mp.
+43. or/39-42
+44. 25 and 38 and 43

@@ -1,0 +1,33 @@
+1. operation*.ti,ab,sh.
+2. criteri*.ti,ab,sh.
+3. 1 adj3 2
+4. NHSI.ti,ab,sh.
+5. Diagnosis/
+6. "Research Diagnostic Criteria".ti,ab,sh.
+7. ICD.ti,ab,sh.
+8. bleuler.ti,ab,sh.
+9. PSE.ti,ab,sh.
+10. "operational criteria".ti,ab,sh.
+11. "Sensitivity and Specificity"/
+12. Feighner.ti,ab,sh.
+13. kraepelin.ti,ab,sh.
+14. IPSS.ti,ab,sh.
+15. "present state examination".ti,ab,sh.
+16. "Diagnostic and Statistical Manual of Mental Disorders"/
+17. DSM.ti,ab,sh.
+18. "international pilot study of schizophrenia".ti,ab,sh.
+19. "new haven schizophrenia index".ti,ab,sh.
+20. "International Classification of Diseases"/
+21. RDC.ti,ab,sh.
+22. schneider.ti,ab,sh.
+23. or/3-22
+24. Schizophrenia/
+25. schizophren*.ti,ab,sh.
+26. 24 or 25
+27. 23 and 26
+28. humans/
+29. animals/
+30. 28 and 29
+31. animals/
+32. 30 not 31
+33. 27 not 32

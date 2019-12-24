@@ -1,0 +1,42 @@
+1. carcin*.ti,ab,sh.
+2. cancer*.ti,ab,sh.
+3. neoplas*.ti,ab,sh.
+4. tumour*.ti,ab,sh.
+5. tumor*.ti,ab,sh.
+6. adenocarcin*.ti,ab,sh.
+7. malig*.ti,ab,sh.
+8. or/1-7
+9. Digest*.ti,ab,sh.
+10. Gastr*.ti,ab,sh.
+11. gut.ti,ab,sh.
+12. stomach*.ti,ab,sh.
+13. or/9-12
+14. 8 and 13
+15. lymph.tw.
+16. node.tw.
+17. metastasis.tw.
+18. adj2/15-17
+19. gastric.tw.
+20. staging.tw.
+21. 19 adj2 20
+22. *Lymphatic Metastasis/
+23. disease progression/
+24. t-stag*.tw.
+25. Stomach Neoplasms/
+26. Neoplasm Staging/
+27. 18 or 21 or 22 or 23 or 24 or 25 or 26
+28. ultrasound.tw.
+29. ultrasonograph*.tw.
+30. ultrasonic.tw.
+31. or/28-30
+32. endoscop*.tw.
+33. 31 adj2 32
+34. Endosonography/
+35. EUS.tw.
+36. *Diagnostic Imaging/
+37. Neoplasm Invasiveness/
+38. Peritoneal Neoplasms/
+39. Abdominal Neoplasms/
+40. Stomach Neoplasms/
+41. or/33-40
+42. 14 and 27 and 41

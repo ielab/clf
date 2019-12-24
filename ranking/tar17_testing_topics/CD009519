@@ -1,0 +1,49 @@
+1. lung.ti,ab.
+2. lungs.ti,ab.
+3. pulmonary.ti,ab.
+4. or/1-3
+5. neoplasm*.ti,ab.
+6. cancer*.ti,ab.
+7. carcinoma*.ti,ab.
+8. adenocarcinoma*.ti,ab.
+9. angiosarcoma*.ti,ab.
+10. chrondosarcoma*.ti,ab.
+11. sarcoma*.ti,ab.
+12. teratoma*.ti,ab.
+13. lymphoma*.ti,ab.
+14. blastoma*.ti,ab.
+15. microcytic*.ti,ab.
+16. tumour*.ti,ab.
+17. tumor*.ti,ab.
+18. or/5-17
+19. 4 adj3 18
+20. exp Lung Neoplasms/
+21. NSCLC.ti,ab.
+22. or/19-21
+23. FDG.tw.
+24. Fludeoxyglucose.tw.
+25. fluorodeoxyglucose.tw.
+26. depreotide.tw.
+27. or/23-26
+28. positron.tw.
+29. photon.tw.
+30. scintillation.tw.
+31. or/28-30
+32. emission.tw.
+33. tomograph*.tw.
+34. 32 or 33
+35. 31 adj3 34
+36. CGC.tw.
+37. PET.tw.
+38. SPECT.tw.
+39. NEOTECT.tw.
+40. NEOSPECT.tw.
+41. NEOTEC.tw.
+42. or/36-41
+43. Positron-Emission Tomography/
+44. Tomography, Spiral Computed/
+45. Fluorodeoxyglucose F18/
+46. Tomography/
+47. Tomography, Emission-Computed/
+48. 27 or 35 or 42 or 43 or 44 or 45 or 46 or 47
+49. 22 and 48

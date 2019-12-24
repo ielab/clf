@@ -1,0 +1,14 @@
+1. tuberculosis.tw.
+2. TB.tw.
+3. 1 or 2
+4. Tuberculosis, Multidrug-Resistant/
+5. Tuberculosis/
+6. Tuberculosis, Pulmonary/
+7. or/4-6
+8. Mycobacterium tuberculosis/
+9. 3 or 7 or 8
+10. Xpert.tw.
+11. GeneXpert.tw.
+12. cepheid  near* patient.tw.
+13. or/10-12
+14. 9 and 13

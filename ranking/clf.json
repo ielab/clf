@@ -1,0 +1,48 @@
+template rank_clm $0
+template rank_clf $1
+template query_expansion $2
+template score_pubmed $3
+template only_score_pubmed $4
+template retrieval_model $5
+template clf_variations $6
+template pmids $7
+template titles $8
+template cutoff $9
+template query_path $10
+template run_name $11
+{
+  "statistic": {
+    "source": "entrez",
+    "options": {
+      "email": "<YOUR EMAIL ADDRESS>",
+      "tool": "<YOUR TOOL>",
+      "key": "<YOUR API KEY>",
+      "search": {
+        "size": 100000,
+        "run_name": "clf"
+      }
+    }
+  },
+  "query": {s
+    "format": "medline",
+    "path": "%query_path"
+  },
+  "clf": {
+    "clf": true,
+    "rank_clm": %rank_clm,
+    "rank_clf": %rank_clf,
+    "query_expansion": %query_expansion,
+    "score_pubmed": %score_pubmed,
+    "only_score_pubmed": %only_score_pubmed,
+    "retrieval_model": %retrieval_model,
+    "clf_variations": %clf_variations,
+    "pmids": "%pmids",
+    "titles": "%titles",
+    "cutoff": %cutoff
+  },
+  "output": {
+    "trec_results": {
+      "output": "%run_name"
+    }
+  }
+}

@@ -1,0 +1,78 @@
+1. humans/
+2. animals/
+3. 1 not 2
+4. retinal.tw.
+5. nerve.tw.
+6. fiber.tw.
+7. layer.tw.
+8. adj2/4-7
+9. optic.tw.
+10. nerve*.tw.
+11. head.tw.
+12. adj2/9-11
+13. OHT.tw.
+14. IOP.tw.
+15. 13 or 14
+16. increas*.tw.
+17. elevat*.tw.
+18. high*.tw.
+19. raise*.tw.
+20. or/16-19
+21. ocular.tw.
+22. intraocular.tw.
+23. intra-ocular.tw.
+24. or/21-23
+25. 20 adj3 24
+26. pressure.tw.
+27. 25 and 26
+28. retinal.tw.
+29. nerve.tw.
+30. fibre.tw.
+31. layer.tw.
+32. adj2/28-31
+33. optic nerve diseases/
+34. optic dis*.tw.
+35. exp ocular hypertension/
+36. exp intraocular pressure/
+37. ONH.tw.
+38. RNFL.tw.
+39. optic disk/
+40. retinal ganglion cells/
+41. retinal ganglion cell*.tw.
+42. exp glaucoma/
+43. glaucoma*.tw.
+44. 8 or 12 or 15 or 27 or 32 or 33 or 34 or 35 or 36 or 37 or 38 or 39 or 40 or 41 or 42 or 43
+45. optical.tw.
+46. coherence.tw.
+47. tomograph*.tw.
+48. adj2/45-47
+49. optical.tw.
+50. coherence.tw.
+51. interferomet*.tw.
+52. adj2/49-51
+53. Heidelberg.tw.
+54. Retina.tw.
+55. Tomograph*.tw.
+56. adj2/53-55
+57. confocal.tw.
+58. scan*.tw.
+59. laser.tw.
+60. ophthalm*.tw.
+61. adj2/57-60
+62. scan*.tw.
+63. laser*.tw.
+64. polarimetry.tw.
+65. adj2/62-64
+66. enhanced corneal compensat*.tw.
+67. OCT.tw.
+68. Lasers/
+69. SLP.tw.
+70. GDx.tw.
+71. VCC.tw.
+72. variable corneal compensat*.tw.
+73. tomography, optical coherence/
+74. ophthalmoscopy/
+75. HRT.tw.
+76. tomography, optical/
+77. 48 or 52 or 56 or 61 or 65 or 66 or 67 or 68 or 69 or 70 or 71 or 72 or 73 or 74 or 75 or 76
+78. 44 and 77

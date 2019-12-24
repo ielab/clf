@@ -1,0 +1,18 @@
+1. hepatic.ti,ab,sh.
+2. liver.ti,ab,sh.
+3. 1 or 2
+4. fibrosis.ti,ab,sh.
+5. cirrhosis.ti,ab,sh.
+6. 4 or 5
+7. 3 and 6
+8. exp liver cirrhosis/
+9. 7 or 8
+10. liver biops*.ti,ab,sh.
+11. exp Biopsy, Needle/
+12. 10 or 11
+13. transient elastograph*.ti,ab,sh.
+14. fibroscan.ti,ab,sh.
+15. 13 or 14
+16. exp Elasticity Imaging Techniques/
+17. 15 or 16
+18. 9 and 12 and 17

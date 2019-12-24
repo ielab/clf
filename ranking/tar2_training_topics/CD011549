@@ -1,0 +1,57 @@
+1. bile duct.ti,ab.
+2. biliary.ti,ab.
+3. CBD.ti,ab.
+4. or/1-3
+5. stone.ti,ab.
+6. stones.ti,ab.
+7. calculus.ti,ab.
+8. calculi.ti,ab.
+9. or/5-8
+10. 4 and 9
+11. choledocholithiasis.ti,ab.
+12. cholelithiasis.ti,ab.
+13. Choledocholithiasis/
+14. Common Bile Duct Calculi/
+15. Cholelithiasis/
+16. or/10-15
+17. computed.ti,ab.
+18. computerised.ti,ab.
+19. computerized.ti,ab.
+20. magneti*.ti,ab.
+21. MR.ti,ab.
+22. NMR.ti,ab.
+23. proton.ti,ab.
+24. or/17-23
+25. tomogra*.ti,ab.
+26. scan.ti,ab.
+27. scans.ti,ab.
+28. imaging.ti,ab.
+29. cholangiogra*.ti,ab.
+30. or/25-29
+31. 24 and 30
+32. CT.ti,ab.
+33. tomodensitometry.ti,ab.
+34. MRI.ti,ab.
+35. NMRI.ti,ab.
+36. zeugmatogra*.ti,ab.
+37. Tomography, X-Ray Computed/
+38. Magnetic Resonance Imaging/
+39. echogra*.ti,ab.
+40. ultrason*.ti,ab.
+41. ultrasound.ti,ab.
+42. EUS.ti,ab.
+43. Ultrasonography/
+44. Endosonography/
+45. cholangiogra*.ti,ab.
+46. cholangio*pancreatogra*.ti,ab.
+47. cholangiosco*.ti,ab.
+48. choledochosco*.ti,ab.
+49. ERCP.ti,ab.
+50. MRCP.ti,ab.
+51. Cholangiography/
+52. Cholangiopancreatography, Magnetic Resonance/
+53. liver function test.ti,ab.
+54. liver function tests.ti,ab.
+55. Liver Function Tests/
+56. or/31-55
+57. 16 and 56

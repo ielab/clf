@@ -1,0 +1,227 @@
+1. provocation.tw.
+2. "intra abdominal pressure".tw.
+3. 1 and 2
+4. areflexia.tw.
+5. reflex*.tw.
+6. 4 or 5
+7. achilles.tw.
+8. 6 and 7
+9. extens*.tw.
+10. reflex.tw.
+11. 9 or 10
+12. knee.tw.
+13. 11 and 12
+14. somatosensory.tw.
+15. sensibility.tw.
+16. 14 or 15
+17. dermatom*.tw.
+18. 16 and 17
+19. test.tw.
+20. tests.tw.
+21. testing.tw.
+22. sign.tw.
+23. or/19-22
+24. "muscle strength".tw.
+25. leg.tw.
+26. and/23-25
+27. Bragard*.tw.
+28. Naffziger*.tw.
+29. 27 or 28
+30. test.tw.
+31. tests.tw.
+32. testing.tw.
+33. sign.tw.
+34. or/30-33
+35. 29 and 34
+36. measure*.tw.
+37. "calf wasting".tw.
+38. 36 and 37
+39. impair*.tw.
+40. "ankle reflex".tw.
+41. 39 and 40
+42. weakness.tw.
+43. dorsiflexion.tw.
+44. foot.tw.
+45. and/42-44
+46. "straight leg raising".tw.
+47. lasegue.tw.
+48. "bell test".tw.
+49. "hyperextension test".tw.
+50. "femoral nerve stretch test".tw.
+51. exp "Reflex, stretch"/
+52. slump.tw.
+53. 3 or 8 or 13 or 18 or 26 or 35 or 38 or 41 or 45 or 46 or 47 or 48 or 49 or 50 or 51 or 52
+54. diagnosis.tw.
+55. sign.tw.
+56. signs.tw.
+57. significance.tw.
+58. symptom*.tw.
+59. parameter*.tw.
+60. assessment.tw.
+61. finding*.rs.
+62. or/54-61
+63. clinical.tw.
+64. 62 and 63
+65. exp Physical examination/
+66. "physical examination".ti,ab.
+67. "function test".ti,ab.
+68. "physical test".sh.
+69. or/64-68
+70. exp Pain/
+71. pain.tw.
+72. ache*.tw.
+73. aching.tw.
+74. complaint*.tw.
+75. dysfunction*.tw.
+76. disabil*.tw.
+77. neuralgia.tw.
+78. or/70-77
+79. exp Back/
+80. exp spine/
+81. back.ot.
+82. lowback.tw.
+83. lumbar.tw.
+84. lumbal.tw.
+85. lumbo*.tw.
+86. sciatic.tw.
+87. spine.tw.
+88. spinal.tw.
+89. radicular.tw.
+90. "nerve root".tw.
+91. "nerve roots".tw.
+92. disk.tw.
+93. disc.tw.
+94. disks.tw.
+95. discs.tw.
+96. vertebra*.tw.
+97. intervertebra*.tw.
+98. sacroilia*.tw.
+99. exp Sacroiliac-joint/
+100. or/79-99
+101. 78 and 100
+102. exp back pain/
+103. exp sciatica/
+104. "back ache".tw.
+105. backache.tw.
+106. "back pain".tw.
+107. dorsalgia.tw.
+108. lumbago.tw.
+109. sciatica.tw.
+110. ischias.tw.
+111. ischialgia.tw.
+112. lumboischialgia.tw.
+113. radiculalgia.tw.
+114. or/101-113
+115. low.tw.
+116. lower.tw.
+117. lowback.tw.
+118. sciatic*.tw.
+119. ischia*.tw.
+120. lumbo*.tw.
+121. lumba*.tw.
+122. sacroilia*.tw.
+123. or/115-122
+124. disc.tw.
+125. discs.tw.
+126. disk.ti,ab.
+127. disks.ti,ab.
+128. or/124-127
+129. displacement.tw.
+130. hernia*.tw.
+131. protru*.tw.
+132. avulsion*.ti,ab.
+133. or/129-132
+134. 128 and 133
+135. "nerve root".ti,ab.
+136. "nerve roots".tw.
+137. 135 or 136
+138. compress*.ti,ab.
+139. entrap*.tw.
+140. inflammat*.tw.
+141. disorder*.ti,ab.
+142. or/138-141
+143. 137 and 142
+144. exp Back/
+145. exp spine/
+146. back.tw.
+147. lowback.tw.
+148. lumbar.tw.
+149. lumbal.tw.
+150. lumbo*.tw.
+151. sciatic.tw.
+152. spine.tw.
+153. spinal.tw.
+154. radicular.tw.
+155. "nerve root".tw.
+156. "nerve roots".tw.
+157. disk.tw.
+158. disc.tw.
+159. disks.tw.
+160. discs.tw.
+161. vertebra*.tw.
+162. intervertebra*.tw.
+163. sacroilia*.tw.
+164. exp Sacroiliac-joint/
+165. or/144-164
+166. exp nerve compression syndromes/
+167. 165 and 166
+168. exp Intervertebral disk displacement/
+169. exp polyradiculopathy/
+170. radiculopath*.tw.
+171. radiculiti*.tw.
+172. 134 or 143 or 167 or 168 or 169 or 170 or 171
+173. diagnosis.tw.
+174. pathophysiology.tw.
+175. etiology.tw.
+176. or/173-175
+177. diagnosis.tw.
+178. diagnosis/
+179. 177 or 178
+180. positive.tw.
+181. negative.tw.
+182. 180 or 181
+183. false.tw.
+184. 182 and 183
+185. exp Diagnostic errors/
+186. exp "Diagnosis, differential"/
+187. exp "Reproducibility of results"/
+188. exp Reference standards/
+189. "Sensitivity.rs.
+190. exp specificity"/
+191. Comparative study.pt.
+192. exp "Evaluation Studies as Topic"/
+193. Evaluation studies.sb.
+194. exp Longitudinal studies/
+195. sensitivit*.ti,ab.
+196. specificit*.ti,ab.
+197. accura*.rn.
+198. likelihood ratio*.rn.
+199. predict*.rn.
+200. index test.rs.
+201. reference test.rn.
+202. pretest.tw.
+203. pre-test.tw.
+204. posttest.tw.
+205. post-test.tw.
+206. "gold standard".rs.
+207. roc.tw.
+208. odds.tw.
+209. validity.rn.
+210. validation.rn.
+211. validate*.rn.
+212. validation studies.pt.
+213. verif*.ot.
+214. evaluat*.ot.
+215. value*.ot.
+216. exp reference values/
+217. cutoff.rn.
+218. cut-off.rn.
+219. repeatability.rs.
+220. reproducibility.ti,ab.
+221. efficacy.ti,ab.
+222. reliability.rs.
+223. error*.tw.
+224. suitability.tw.
+225. utility.tw.
+226. or/184-225
+227. 53 and 69 and 114 and 123 and 172 and 176 and 179 and 226

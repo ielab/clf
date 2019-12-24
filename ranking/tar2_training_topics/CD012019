@@ -1,0 +1,192 @@
+1. PGP 9?5.tw.
+2. PGP9?5.tw.
+3. protein gene product*.tw.
+4. or/1-3
+5. endometri*.tw.
+6. biops*.tw.
+7. 5 adj2 6
+8. MIF.tw.
+9. migration inhibitory factor*.tw.
+10. 8 or 9
+11. intercellular adhesion molecule-1/
+12. selectins/
+13. 11 or 12
+14. sEcadherin.tw.
+15. soluble E-cadherin.tw.
+16. 14 or 15
+17. t-lymphocytes/
+18. natural killer t-cells/
+19. 17 or 18
+20. hla antigens/
+21. hla-a1 antigen/
+22. hla-a2 antigen/
+23. or/20-22
+24. PDGF.tw.
+25. platelet derived growth factor*.tw.
+26. 24 or 25
+27. EGF.tw.
+28. epidermal growth factor*.tw.
+29. 27 or 28
+30. Ca-125.tw.
+31. Ca125.tw.
+32. cancer antigen 125.tw.
+33. or/30-32
+34. IGF-I.tw.
+35. insulin-like growth factor*.tw.
+36. IGF1.tw.
+37. or/34-36
+38. ANXA 1.tw.
+39. ANXA1.tw.
+40. 38 or 39
+41. HLA.tw.
+42. human leucocyte antigen*.tw.
+43. 41 or 42
+44. Anti-2HSG.tw.
+45. Heremans-Schmidt glycoprotein.tw.
+46. 44 or 45
+47. VEGF.tw.
+48. vascular endothelial growth factor*.tw.
+49. 47 or 48
+50. PP 14.tw.
+51. PP14.tw.
+52. 50 or 51
+53. sEselectin.tw.
+54. soluble E-selectin.tw.
+55. 53 or 54
+56. "tissue inhibitor of metalloproteinase-1"/
+57. "tissue inhibitor of metalloproteinase-2"/
+58. 56 or 57
+59. matrix metalloproteinase 1/
+60. matrix metalloproteinase 2/
+61. matrix metalloproteinase 3/
+62. matrix metalloproteinase 9/
+63. or/59-62
+64. Luteinizing Hormone*.tw.
+65. LH.tw.
+66. 64 or 65
+67. EGFR.tw.
+68. epidermal growth factor receptor*.tw.
+69. 67 or 68
+70. interleukins/
+71. interleukin-1/
+72. interleukin-6/
+73. interleukin-8/
+74. interleukin-12/
+75. interleukin-13/
+76. or/70-75
+77. Ca-19-9.tw.
+78. Ca19-9.tw.
+79. cancer antigen 19-9.tw.
+80. or/77-79
+81. FGF.tw.
+82. fibroblast growth factor*.tw.
+83. 81 or 82
+84. TGF-b.tw.
+85. transforming growth factor beta.tw.
+86. TGFb.tw.
+87. or/84-86
+88. biomarker*.tw.
+89. marker*.tw.
+90. 88 or 89
+91. MCP-I.tw.
+92. monocyte chemoattractant protein-I.tw.
+93. 91 or 92
+94. VDBP.tw.
+95. vitamin D-binding protein*.tw.
+96. 94 or 95
+97. T helper*.tw.
+98. T supressor*.tw.
+99. T helper* T supressor* ratio.tw.
+100. or/97-99
+101. TGF-a.tw.
+102. transforming growth factor alfa.tw.
+103. TGFa.tw.
+104. or/101-103
+105. TNF-a.tw.
+106. tumour necrosis factor* alfa.tw.
+107. 105 or 106
+108. Annexin 1.tw.
+109. Annexin1.tw.
+110. 108 or 109
+111. MTMMP*.tw.
+112. Vitamin D-Binding Protein/
+113. scatter factor*.tw.
+114. Osteopontin*.tw.
+115. CAMs.tw.
+116. Aromatase P450.tw.
+117. neural marker*.tw.
+118. Keratin-19/
+119. Proteolytic enzyme*.tw.
+120. Endometrial marker*.tw.
+121. Antiphospholipid*.tw.
+122. Fas ligand*.tw.
+123. serum placental protein*.tw.
+124. Platelet-Derived Growth Factor/
+125. exp Cysteine-Rich Protein 61/
+126. inflammatory marker*.tw.
+127. proteomic*.tw.
+128. Total complement level*.tw.
+129. exp Integrins/
+130. Anti-LDL.tw.
+131. Follistatin*.tw.
+132. Vascular Endothelial Growth Factor A/
+133. exp Epidermal Growth Factor/
+134. exp Progesterone/
+135. Soluble adhesion molecule*.tw.
+136. Cadherin*.tw.
+137. cyr61.tw.
+138. microarray*.tw.
+139. hepatocyte growth factor.tw.
+140. sVCAM*.tw.
+141. Immune cells alteration*.tw.
+142. Selectin*.tw.
+143. progesterone receptor*.tw.
+144. serum marker*.tw.
+145. exp Cytokines/
+146. exp Clinical Laboratory Techniques/
+147. Anti-transferrin.tw.
+148. Integrin*.tw.
+149. estrogen receptor*.tw.
+150. cytokeratin-19.tw.
+151. Laboratory Test*.tw.
+152. matrix metalloproteinase*.tw.
+153. urinary peptide*.tw.
+154. VDBP-Cr.tw.
+155. exp Glycoproteins/
+156. soluble intercellular adhesion.tw.
+157. Anti-laminin-1.tw.
+158. cytokine*.tw.
+159. TIMP*.tw.
+160. MMP*.tw.
+161. Anti-endometrial.tw.
+162. cell adhesion molecule*.tw.
+163. exp Fibroblast Growth Factors/
+164. exp Luteinizing Hormone/
+165. sICAM.tw.
+166. exp Follistatin/
+167. Autoantibodies.tw.
+168. urinary VDBP corrected for creatinine expression.tw.
+169. Anti-Thomsen Friedenreich antigen*.tw.
+170. cell surface marker*.tw.
+171. urinary marker*.tw.
+172. growth factor*.tw.
+173. microRNA*.tw.
+174. genomic*.tw.
+175. leptin*.tw.
+176. Anti-thyroid.tw.
+177. cysteine-rich heparin-binding protein*.tw.
+178. exp Antibodies, Antiphospholipid/
+179. interleukin*.tw.
+180. 4 or 7 or 10 or 13 or 16 or 19 or 23 or 26 or 29 or 33 or 37 or 40 or 43 or 46 or 49 or 52 or 55 or 58 or 63 or 66 or 69 or 76 or 80 or 83 or 87 or 90 or 93 or 96 or 100 or 104 or 107 or 110 or 111 or 112 or 113 or 114 or 115 or 116 or 117 or 118 or 119 or 120 or 121 or 122 or 123 or 124 or 125 or 126 or 127 or 128 or 129 or 130 or 131 or 132 or 133 or 134 or 135 or 136 or 137 or 138 or 139 or 140 or 141 or 142 or 143 or 144 or 145 or 146 or 147 or 148 or 149 or 150 or 151 or 152 or 153 or 154 or 155 or 156 or 157 or 158 or 159 or 160 or 161 or 162 or 163 or 164 or 165 or 166 or 167 or 168 or 169 or 170 or 171 or 172 or 173 or 174 or 175 or 176 or 177 or 178 or 179
+181. Endometriosis/
+182. 180 or 181
+183. Endometriosis/
+184. Endometrio*.tw.
+185. 183 or 184
+186. 182 and 185
+187. humans/
+188. animals/
+189. 187 and 188
+190. animals/
+191. 189 not 190
+192. 186 not 191

@@ -1,0 +1,44 @@
+1. Tomography, Emission-Computed, Single-Photon/
+2. Tomography, Emission-Computed/
+3. 1 or 2
+4. SPET.ti,ab.
+5. single photon emission tomography.ti,ab.
+6. single photon emission computed tomography.ti,ab.
+7. "SPECT/CT".ti,ab.
+8. SPECT.ti,ab.
+9. or/3-8
+10. FTD.ti,ab.
+11. FTLD.ti,ab.
+12. 10 or 11
+13. "organic brain disease".ti,ab.
+14. "organic brain syndrome".ti,ab.
+15. 13 or 14
+16. chronic.ti,ab.
+17. cerebrovascular.ti,ab.
+18. 16 adj2 17
+19. pick*.ti,ab.
+20. disease.ti,ab.
+21. 19 adj2 20
+22. cerebral*.ti,ab.
+23. insufficient*.ti,ab.
+24. 22 adj2 23
+25. lewy*.ti,ab.
+26. body.ti,ab.
+27. 25 adj2 26
+28. cerebral.ti,ab.
+29. deteriorat*.ti,ab.
+30. 28 adj2 29
+31. "benign senescent forgetfulness".ti,ab.
+32. "primary progressive aphasia".ti,ab.
+33. Primary Progressive Nonfluent Aphasia/
+34. Aphasia, Primary Progressive/
+35. exp Dementia/
+36. Delirium/
+37. "progressive non-fluent aphasia".ti,ab.
+38. Frontotemporal Lobar Degeneration/
+39. dement*.ti,ab.
+40. alzheimer*.ti,ab.
+41. "Frontotemporal lobar degeneration".ti,ab.
+42. Delirium, Dementia, Amnestic, Cognitive Disorders/
+43. 12 or 15 or 18 or 21 or 24 or 27 or 30 or 31 or 32 or 33 or 34 or 35 or 36 or 37 or 38 or 39 or 40 or 41 or 42
+44. 9 and 43

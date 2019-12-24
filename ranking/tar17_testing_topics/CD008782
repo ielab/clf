@@ -1,0 +1,61 @@
+1. forgetful*.ti,ab.
+2. confused.ti,ab.
+3. confusion.ti,ab.
+4. or/1-3
+5. senile.ti,ab.
+6. amyloid.ti,ab.
+7. neuritic.ti,ab.
+8. or/5-7
+9. plaque*.ti,ab.
+10. 8 adj3 9
+11. neuropil.ti,ab.
+12. thread*.ti,ab.
+13. 11 adj3 12
+14. alzheimer*.ti,ab.
+15. dement*.ti,ab.
+16. 14 or 15
+17. neurofibril*.ti,ab.
+18. tangle*.ti,ab.
+19. 17 adj3 18
+20. neurofilament.ti,ab.
+21. protein*.ti,ab.
+22. 20 adj3 21
+23. cognit*.ti,ab.
+24. memory.ti,ab.
+25. cerebr*.ti,ab.
+26. mental*.ti,ab.
+27. or/23-26
+28. declin*.ti,ab.
+29. impair*.ti,ab.
+30. los*.ti,ab.
+31. deteriorat*.ti,ab.
+32. degenerat*.ti,ab.
+33. complain*.ti,ab.
+34. disturb*.ti,ab.
+35. disorder*.ti,ab.
+36. or/28-35
+37. 27 adj3 36
+38. CIND.ti,ab.
+39. MD.ti,ab.
+40. MNCD.ti,ab.
+41. exp Dementia/
+42. Cognition Disorders/
+43. exp Neurofibrils/
+44. ACMI.ti,ab.
+45. AACD.ti,ab.
+46. Neurofilament Proteins/
+47. Neuropil Threads/
+48. ARCD.ti,ab.
+49. SMC.ti,ab.
+50. LCD.ti,ab.
+51. QD.ti,ab.
+52. AAMI.ti,ab.
+53. MCD.ti,ab.
+54. Senile Plaques/
+55. MCI.ti,ab.
+56. BSF.ti,ab.
+57. 4 or 10 or 13 or 16 or 19 or 22 or 37 or 38 or 39 or 40 or 41 or 42 or 43 or 44 or 45 or 46 or 47 or 48 or 49 or 50 or 51 or 52 or 53 or 54 or 55 or 56
+58. Cerebrospinal Fluid Proteins/
+59. Biological Markers/
+60. 58 or 59
+61. 57 and 60

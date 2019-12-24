@@ -1,0 +1,32 @@
+1. procalcitonin.tw.
+2. procalcitonin.sh.
+3. PCT.tw.
+4. or/1-3
+5. c-Reactive Protein/
+6. c-reactive protein.tw.
+7. CRP.tw.
+8. or/5-7
+9. erythrocyte sedimentation rate.tw.
+10. ESR.tw.
+11. blood sedimentation.tw.
+12. Blood Sedimentation/
+13. or/9-12
+14. 4 or 8 or 13
+15. DMSA.tw.
+16. dimercaptosuccin*.tw.
+17. scintigra*.tw.
+18. Radionuclide Imaging/
+19. Succimer/
+20. Kidney/
+21. Technetium Tc 99m Dimercaptosuccinic Acid/
+22. or/15-21
+23. 14 or 22
+24. UTI.tw.
+25. UTIs.tw.
+26. 24 or 25
+27. Pyelonephritis/
+28. urinary tract infection*.tw.
+29. pyelonephritis.tw.
+30. Urinary Tract Infections/
+31. or/26-30
+32. 23 and 31

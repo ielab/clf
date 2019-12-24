@@ -1,0 +1,58 @@
+1. neoplas*.tw.
+2. cancer?.tw.
+3. tumour?.tw.
+4. tumor?.tw.
+5. carcinoma?.tw.
+6. or/1-5
+7. colorectal.tw.
+8. 6 adj3 7
+9. neoplas*.tw.
+10. cancer?.tw.
+11. tumour?.tw.
+12. tumor?.tw.
+13. carcinoma?.tw.
+14. or/9-13
+15. colon*.tw.
+16. 14 adj3 15
+17. neoplas*.tw.
+18. cancer?.tw.
+19. tumour?.tw.
+20. tumor?.tw.
+21. carcinoma?.tw.
+22. or/17-21
+23. bowel.tw.
+24. 22 adj3 23
+25. neoplas*.tw.
+26. cancer?.tw.
+27. tumour?.tw.
+28. tumor?.tw.
+29. carcinoma?.tw.
+30. or/25-29
+31. rectal.tw.
+32. 30 adj3 31
+33. neoplas*.tw.
+34. cancer?.tw.
+35. tumour?.tw.
+36. tumor?.tw.
+37. carcinoma?.tw.
+38. or/33-37
+39. rectum.tw.
+40. 38 adj3 39
+41. colorectal neoplasms or exp adenomatous polyposis coli or exp colonic neoplasms or colorectal neoplasms, hereditary nonpolyposis or exp rectal neoplasms/
+42. 8 or 16 or 24 or 32 or 40 or 41
+43. carcinoembryonic.tw.
+44. antigen?.tw.
+45. 43 adj3 44
+46. carcinoembryonic.tw.
+47. antibod*.tw.
+48. 46 adj3 47
+49. carcino-embryonic.tw.
+50. antigen?.tw.
+51. 49 adj3 50
+52. carcino-embryonic.tw.
+53. antibod*.tw.
+54. 52 adj3 53
+55. cea.tw.
+56. Carcinoembryonic Antigen/
+57. 45 or 48 or 51 or 54 or 55 or 56
+58. 42 and 57

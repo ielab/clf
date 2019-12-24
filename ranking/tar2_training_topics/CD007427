@@ -1,0 +1,139 @@
+1. Glenoid.ti,ab,sh.
+2. Subacromial.ti,ab,sh.
+3. Subcoracoid.ti,ab,sh.
+4. Teres minor.ti,ab,sh.
+5. Bicipital.ti,ab,sh.
+6. Infraspinatus.ti,ab,sh.
+7. Biceps.ti,ab,sh.
+8. Labr*.ti,ab,sh.
+9. Rotator cuff.ti,ab,sh.
+10. SA SD.ti,ab,sh.
+11. Subscapular*.ti,ab,sh.
+12. SLAP.ti,ab,sh.
+13. Intraarticular.ti,ab,sh.
+14. Shoulder.ti,ab,sh.
+15. Subdeltoid.ti,ab,sh.
+16. or/1-15
+17. Mimori K.au.
+18. Snyder S*.au.
+19. Crenshaw A*.au.
+20. Hawkins R.au.
+21. Jobe C*.au.
+22. Neer C*.au.
+23. O'Brien S*.au.
+24. Patte D.au.
+25. Yergason R*.au.
+26. Yocum L*.au.
+27. Gerber C.au.
+28. Zaslav K*.au.
+29. or/17-28
+30. 16 and 29
+31. Lesion*.ti,ab,sh.
+32. Patholog*.ti,ab,sh.
+33. Tear*.ti,ab,sh.
+34. Tend#nitis.ti,ab,sh.
+35. Arc.ti,ab,sh.
+36. Bursitis.ti,ab,sh.
+37. Impingement*.ti,ab,sh.
+38. or/31-37
+39. Yergason R*.au.
+40. Yocum L*.au.
+41. Gerber C.au.
+42. Hawkins R.au.
+43. Jobe C*.au.
+44. Neer C*.au.
+45. O'Brien S*.au.
+46. Patte D.au.
+47. Zaslav K*.au.
+48. Crenshaw A*.au.
+49. Mimori K.au.
+50. Snyder S*.au.
+51. or/39-50
+52. 38 and 51
+53. 30 or 52
+54. Diagnos*.ti,ab,sh.
+55. Examin*.ti,ab,sh.
+56. Man?euv*.ti,ab,sh.
+57. Sign*.ti,ab,sh.
+58. Test*.ti,ab,sh.
+59. or/54-58
+60. release.ti,ab,sh.
+61. slide.ti,ab,sh.
+62. apprehension.ti,ab,sh.
+63. or/60-62
+64. Anterior.ti,ab,sh.
+65. 63 adj 64
+66. load.ti,ab,sh.
+67. tension.ti,ab,sh.
+68. 66 or 67
+69. Biceps.ti,ab,sh.
+70. 68 adj 69
+71. Physical.ti,ab,sh.
+72. Speed*.ti,ab,sh.
+73. Gerber*.ti,ab,sh.
+74. Mimori*.ti,ab,sh.
+75. Lag.ti,ab,sh.
+76. SLAP.ti,ab,sh.
+77. Active compression.ti,ab,sh.
+78. Hawkins Kennedy*.ti,ab,sh.
+79. Internal rotation.ti,ab,sh.
+80. External rotation lag.ti,ab,sh.
+81. Full can.ti,ab,sh.
+82. Impingement*.ti,ab,sh.
+83. Modified relocation.ti,ab,sh.
+84. Pain provocation.ti,ab,sh.
+85. Rent.ti,ab,sh.
+86. Compression rotation.ti,ab,sh.
+87. Drop arm.ti,ab,sh.
+88. O'Brien*.ti,ab,sh.
+89. Patte*.ti,ab,sh.
+90. Zaslav*.ti,ab,sh.
+91. Neer*.ti,ab,sh.
+92. Infraspinatus.ti,ab,sh.
+93. Lift off.ti,ab,sh.
+94. Rotator cuff.ti,ab,sh.
+95. Snyder*.ti,ab,sh.
+96. Subscapularis.ti,ab,sh.
+97. Bicipital groove.ti,ab,sh.
+98. External rotation.ti,ab,sh.
+99. Jobe*.ti,ab,sh.
+100. Painful arc.ti,ab,sh.
+101. Posterior impingement.ti,ab,sh.
+102. Relocation.ti,ab,sh.
+103. Crank.ti,ab,sh.
+104. Empty can.ti,ab,sh.
+105. IRRST.ti,ab,sh.
+106. SLAPPrehension.ti,ab,sh.
+107. Yergason*.ti,ab,sh.
+108. Yocum*.ti,ab,sh.
+109. Hawkins.ti,ab,sh.
+110. Internal rotation resistance strength.ti,ab,sh.
+111. 65 or 70 or 71 or 72 or 73 or 74 or 75 or 76 or 77 or 78 or 79 or 80 or 81 or 82 or 83 or 84 or 85 or 86 or 87 or 88 or 89 or 90 or 91 or 92 or 93 or 94 or 95 or 96 or 97 or 98 or 99 or 100 or 101 or 102 or 103 or 104 or 105 or 106 or 107 or 108 or 109 or 110
+112. 59 and 111
+113. Arc.ti,ab,sh.
+114. Bursitis.ti,ab,sh.
+115. Impingement*.ti,ab,sh.
+116. Lesion*.ti,ab,sh.
+117. Patholog*.ti,ab,sh.
+118. Tear*.ti,ab,sh.
+119. Tend#nitis.ti,ab,sh.
+120. or/113-119
+121. Subcoracoid.ti,ab,sh.
+122. Teres minor.ti,ab,sh.
+123. Glenoid.ti,ab,sh.
+124. Subacromial.ti,ab,sh.
+125. Bicipital.ti,ab,sh.
+126. Infraspinatus.ti,ab,sh.
+127. Rotator cuff.ti,ab,sh.
+128. SA SD.ti,ab,sh.
+129. Subscapular*.ti,ab,sh.
+130. SLAP.ti,ab,sh.
+131. Biceps.ti,ab,sh.
+132. Labr*.ti,ab,sh.
+133. Subdeltoid.ti,ab,sh.
+134. Intraarticular.ti,ab,sh.
+135. Shoulder.ti,ab,sh.
+136. or/121-135
+137. 120 and 136
+138. 112 and 137
+139. 53 or 138

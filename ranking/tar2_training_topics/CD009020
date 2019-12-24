@@ -1,0 +1,29 @@
+1. exp Ultrasonography/
+2. exp ultrasound.tw.
+3. exp ultrasonograph*.tw.
+4. exp sonograp*.tw.
+5. exp us.fs.
+6. or/1-5
+7. exp Magnetic Resonance Imaging/
+8. exp MR imag*.tw.
+9. exp magnetic resonance imag*.tw.
+10. exp MRI.tw.
+11. or/7-10
+12. 6 or 11
+13. Rotator Cuff/
+14. rotator cuff*.tw.
+15. musculotendinous cuff*.tw.
+16. subscapularis.tw.
+17. supraspinatus.tw.
+18. infraspinatus.mp.
+19. teres minor.tw.
+20. or/13-19
+21. Rupture/
+22. tear*.tw.
+23. torn.tw.
+24. thickness.tw.
+25. lesion*.tw.
+26. ruptur*.tw.
+27. injur*.tw.
+28. or/21-27
+29. 12 and 20 and 28

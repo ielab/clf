@@ -1,0 +1,40 @@
+1. LDB.ti,ab.
+2. DLB.ti,ab.
+3. LBD.ti,ab.
+4. or/1-3
+5. lewy*.ti,ab.
+6. body.ti,ab.
+7. 5 adj2 6
+8. Lewy Bodies/
+9. dementia.ti,ab.
+10. Lewy Body Disease/
+11. 4 or 7 or 8 or 9 or 10
+12. "[11C]/[18F]beta-CFT".ti,ab.
+13. "[11C]/[18F]β-CFT".ti,ab.
+14. 12 or 13
+15. "123I-β-CIT".ti,ab.
+16. "[123I]β-CIT".ti,ab.
+17. "[123I]beta-CIT".ti,ab.
+18. or/15-17
+19. "dopamine transporter".ti,ab.
+20. FP-CIT.ti,ab.
+21. "[11C]FE-CIT".ti,ab.
+22. SPET.ti,ab.
+23. "[11C]altropane".ti,ab.
+24. Dopamine Plasma Membrane Transport Proteins/
+25. "123I-FP-CIT".ti,ab.
+26. SPECT.ti,ab.
+27. "[99mTc]TRODAT-1".ti,ab.
+28. "[123I]altropane".ti,ab.
+29. Tomography, Emission-Computed, Single-Photon/
+30. Dopaminergic Neurons/
+31. DaTSCAN.ti,ab.
+32. "[123I]PE2I".ti,ab.
+33. "[3H]WIN".ti,ab.
+34. "[11C]dMP".ti,ab.
+35. DAT scan*.ti,ab.
+36. "[11C]cocaine".ti,ab.
+37. "single photon emission tomography".ti,ab.
+38. "single photon emission computed tomography".ti,ab.
+39. 14 or 18 or 19 or 20 or 21 or 22 or 23 or 24 or 25 or 26 or 27 or 28 or 29 or 30 or 31 or 32 or 33 or 34 or 35 or 36 or 37 or 38
+40. 11 and 39

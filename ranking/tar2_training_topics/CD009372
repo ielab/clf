@@ -1,0 +1,308 @@
+1. basal ganglia hemorrhage/
+2. intracranial hemorrhages/
+3. cerebral hemorrhage/
+4. intracranial hemorrhage, hypertensive/
+5. cerebrovascular disorders/
+6. or/1-5
+7. brain*.tw.
+8. cerebr*.tw.
+9. cerebell*.tw.
+10. intracerebral.tw.
+11. intracran*.tw.
+12. parenchymal.tw.
+13. intraparenchymal.tw.
+14. intraventricular.tw.
+15. infratentorial.tw.
+16. supratentorial.tw.
+17. basal gangli*.tw.
+18. putaminal.tw.
+19. putamen.tw.
+20. posterior fossa.tw.
+21. hemispher*.tw.
+22. stroke.tw.
+23. apoplex*.tw.
+24. or/7-23
+25. h?emorrhage*.tw.
+26. h?ematoma*.tw.
+27. bleed*.tw.
+28. or/25-27
+29. ICH.tw.
+30. 24 adj10 28 adj10 29
+31. 6 or 30
+32. magnetic resonance.tw.
+33. MR.tw.
+34. MRI.tw.
+35. NMR.tw.
+36. or/32-35
+37. angiogra*.tw.
+38. arteriogra*.tw.
+39. 37 or 38
+40. 36 adj5 39
+41. angiography/
+42. cerebral angiography/
+43. 41 or 42
+44. Tomography, X-Ray Computed/
+45. 43 and 44
+46. Compute* tomograph*.tw.
+47. CT.tw.
+48. CAT.tw.
+49. or/46-48
+50. angiogra*.tw.
+51. arteriogra*.tw.
+52. 50 or 51
+53. 49 adj5 52
+54. angiography or cerebral angiography/
+55. Magnetic Resonance Imaging/
+56. 54 and 55
+57. MRA.tw.
+58. CTA.tw.
+59. Magnetic Resonance Angiography/
+60. 40 or 45 or 53 or 56 or 57 or 58 or 59
+61. subtraction technique/
+62. subtraction.tw.
+63. 61 or 62
+64. angiography/
+65. 63 and 64
+66. digital subtract*.tw.
+67. catheter.tw.
+68. cerebral.tw.
+69. brain.tw.
+70. or/66-69
+71. angiogra*.tw.
+72. arteriogra*.tw.
+73. 71 or 72
+74. 70 adj5 73
+75. DSA.tw.
+76. IADSA.tw.
+77. 75 or 76
+78. angiography, digital subtraction/
+79. 65 or 74 or 77 or 78
+80. 31 and 60 and 79
+81. angiography/
+82. cerebral angiography/
+83. 81 or 82
+84. Tomography, X-Ray Computed/
+85. 83 and 84
+86. Compute* tomograph*.tw.
+87. CT.tw.
+88. CAT.tw.
+89. or/86-88
+90. angiogra*.tw.
+91. arteriogra*.tw.
+92. 90 or 91
+93. 89 adj5 92
+94. Magnetic Resonance Imaging/
+95. angiography or cerebral angiography/
+96. 94 and 95
+97. magnetic resonance.tw.
+98. MR.tw.
+99. MRI.tw.
+100. NMR.tw.
+101. or/97-100
+102. angiogra*.tw.
+103. arteriogra*.tw.
+104. 102 or 103
+105. 101 adj5 104
+106. CTA.tw.
+107. Magnetic Resonance Angiography/
+108. MRA.tw.
+109. 85 or 93 or 96 or 105 or 106 or 107 or 108
+110. exp *basal ganglia hemorrhage/
+111. *intracranial hemorrhages/
+112. *cerebral hemorrhage/
+113. *intracranial hemorrhage, hypertensive/
+114. *cerebrovascular disorders/
+115. or/110-114
+116. 109 and 115
+117. angiography/
+118. cerebral angiography/
+119. 117 or 118
+120. Tomography, X-Ray Computed/
+121. 119 and 120
+122. Compute* tomograph*.tw.
+123. CT.tw.
+124. CAT.tw.
+125. or/122-124
+126. angiogra*.tw.
+127. arteriogra*.tw.
+128. 126 or 127
+129. 125 adj5 128
+130. angiography or cerebral angiography/
+131. Magnetic Resonance Imaging/
+132. 130 and 131
+133. magnetic resonance.tw.
+134. MR.tw.
+135. MRI.tw.
+136. NMR.tw.
+137. or/133-136
+138. angiogra*.tw.
+139. arteriogra*.tw.
+140. 138 or 139
+141. 137 adj5 140
+142. MRA.tw.
+143. CTA.tw.
+144. Magnetic Resonance Angiography/
+145. 121 or 129 or 132 or 141 or 142 or 143 or 144
+146. predictive.tw.
+147. value*.tw.
+148. 146 adj5 147
+149. false.tw.
+150. positive*.tw.
+151. 149 adj 150
+152. false.tw.
+153. negative*.tw.
+154. 152 adj 153
+155. 151 or 154
+156. observer.tw.
+157. variation*.tw.
+158. 156 adj 157
+159. roc.tw.
+160. curve*.tw.
+161. 159 adj 160
+162. sensitiv*.tw.
+163. specificity.tw.
+164. 162 or 163
+165. likelihood.tw.
+166. ratio*.tw.
+167. 165 adj3 166
+168. exp diagnostic errors/
+169. likelihood function/
+170. exp "sensitivity and specificity"/
+171. 148 or 155 or 158 or 161 or 164 or 167 or 168 or 169 or 170
+172. brain*.tw.
+173. cerebr*.tw.
+174. cerebell*.tw.
+175. intracerebral.tw.
+176. intracran*.tw.
+177. parenchymal.tw.
+178. intraparenchymal.tw.
+179. intraventricular.tw.
+180. infratentorial.tw.
+181. supratentorial.tw.
+182. basal gangli*.tw.
+183. putaminal.tw.
+184. putamen.tw.
+185. posterior fossa.tw.
+186. hemispher*.tw.
+187. stroke.tw.
+188. apoplex*.tw.
+189. or/172-188
+190. h?emorrhage*.tw.
+191. h?ematoma*.tw.
+192. bleed*.tw.
+193. or/190-192
+194. ICH.tw.
+195. 189 adj10 193 adj10 194
+196. basal ganglia hemorrhage/
+197. intracranial hemorrhages/
+198. cerebral hemorrhage/
+199. intracranial hemorrhage, hypertensive/
+200. cerebrovascular disorders/
+201. or/196-200
+202. 195 or 201
+203. 145 and 171 and 202
+204. 80 or 116 or 203
+205. *basal ganglia hemorrhage/
+206. *intracranial hemorrhages/
+207. *cerebral hemorrhage/
+208. *intracranial hemorrhage, hypertensive/
+209. *cerebrovascular disorders/
+210. or/205-209
+211. subtraction technique/
+212. subtraction.tw.
+213. 211 or 212
+214. angiography/
+215. 213 and 214
+216. digital subtract*.tw.
+217. catheter.tw.
+218. cerebral.tw.
+219. brain.tw.
+220. or/216-219
+221. angiogra*.tw.
+222. arteriogra*.tw.
+223. 221 or 222
+224. 220 adj5 223
+225. DSA.tw.
+226. IADSA.tw.
+227. 225 or 226
+228. angiography, digital subtraction/
+229. 215 or 224 or 227 or 228
+230. 210 and 229
+231. exp basal ganglia hemorrhage/
+232. intracranial hemorrhages/
+233. cerebral hemorrhage/
+234. intracranial hemorrhage, hypertensive/
+235. cerebrovascular disorders/
+236. or/231-235
+237. brain*.tw.
+238. cerebr*.tw.
+239. cerebell*.tw.
+240. intracerebral.tw.
+241. intracran*.tw.
+242. parenchymal.tw.
+243. intraparenchymal.tw.
+244. intraventricular.tw.
+245. infratentorial.tw.
+246. supratentorial.tw.
+247. basal gangli*.tw.
+248. putaminal.tw.
+249. putamen.tw.
+250. posterior fossa.tw.
+251. hemispher*.tw.
+252. stroke.tw.
+253. apoplex*.tw.
+254. or/237-253
+255. h?emorrhage*.tw.
+256. h?ematoma*.tw.
+257. bleed*.tw.
+258. or/255-257
+259. ICH.tw.
+260. 254 adj10 258 adj10 259
+261. 236 or 260
+262. subtraction technique/
+263. subtraction.tw.
+264. 262 or 263
+265. angiography/
+266. 264 and 265
+267. digital subtract*.tw.
+268. catheter.tw.
+269. cerebral.tw.
+270. brain.tw.
+271. or/267-270
+272. angiogra*.tw.
+273. arteriogra*.tw.
+274. 272 or 273
+275. 271 adj5 274
+276. DSA.tw.
+277. IADSA.tw.
+278. 276 or 277
+279. angiography, digital subtraction/
+280. 266 or 275 or 278 or 279
+281. roc.tw.
+282. curve*.tw.
+283. 281 adj 282
+284. sensitiv*.tw.
+285. specificity.tw.
+286. 284 or 285
+287. predictive.tw.
+288. value*.tw.
+289. 287 adj5 288
+290. false.tw.
+291. positive*.tw.
+292. 290 adj 291
+293. false.tw.
+294. negative*.tw.
+295. 293 adj 294
+296. 292 or 295
+297. observer.tw.
+298. variation*.tw.
+299. 297 adj 298
+300. likelihood.tw.
+301. ratio*.tw.
+302. 300 adj3 301
+303. likelihood function/
+304. diagnostic errors/
+305. "sensitivity and specificity"/
+306. 283 or 286 or 289 or 296 or 299 or 302 or 303 or 304 or 305
+307. 261 and 280 and 306
+308. 204 or 230 or 307

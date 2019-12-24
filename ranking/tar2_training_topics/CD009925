@@ -1,0 +1,76 @@
+1. false negative reactions/
+2. false positive reactions/
+3. 1 or 2
+4. false positive*.ti,ab,sh.
+5. false negative*.ti,ab,sh.
+6. 4 or 5
+7. b-hcg.ti,ab,sh.
+8. bhcg.ti,ab,sh.
+9. 7 or 8
+10. unconjugated estriol.ti,ab,sh.
+11. unconjugated oestriol.ti,ab,sh.
+12. 10 or 11
+13. human chorionic gonadotropin.ti,ab,sh.
+14. inhibin a.ti,ab,sh.
+15. .tw.
+16. diagnos*.tw.
+17. exp Pregnancy-Associated Plasma Protein-A/
+18. papp-a.ti,ab,sh.
+19. alpha-fetoprotein*.ti,ab,sh.
+20. Chorionic Villi-Sampling/
+21. marker*.ti,ab,sh.
+22. Area under curve/
+23. specific*.ti,ab,sh.
+24. "reproducibility of results".ti,ab,sh.
+25. exp alpha-Fetoproteins/
+26. ultrasound.ti,ab,sh.
+27. nasal bone.ti,ab,sh.
+28. accura*.ti,ab,sh.
+29. ROC curve/
+30. AUC.ti,ab,sh.
+31. sensitiv*.ti,ab,sh.
+32. pregnancy associated plasma protein a.ti,ab,sh.
+33. alphafetoprotein*.ti,ab,sh.
+34. amniocentesis/
+35. afp.ti,ab,sh.
+36. exp INHIBINS/
+37. predict*.ti,ab,sh.
+38. likelihood ratio*.ti,ab,sh.
+39. reference value*.ti,ab,sh.
+40. reference standard*.ti,ab,sh.
+41. nuchal translucency.ti,ab,sh.
+42. ue3.ti,ab,sh.
+43. chorion* vill* sampling.ti,ab,sh.
+44. tricuspid regurgitation.ti,ab,sh.
+45. screen*.ti,ab,sh.
+46. exp Prenatal Diagnosis/
+47. exp Chorionic Gonadotropin, beta Subunit, Human/
+48. detect*.ti,ab,sh.
+49. ROC.ti,ab,sh.
+50. 3 or 6 or 9 or 12 or 13 or 14 or 15 or 16 or 17 or 18 or 19 or 20 or 21 or 22 or 23 or 24 or 25 or 26 or 27 or 28 or 29 or 30 or 31 or 32 or 33 or 34 or 35 or 36 or 37 or 38 or 39 or 40 or 41 or 42 or 43 or 44 or 45 or 46 or 47 or 48 or 49
+51. aneuploidy.ti,ab,sh.
+52. Mosaicism/
+53. mosaicism.ti,ab,sh.
+54. exp Down Syndrome/
+55. downs syndrome.ti,ab,sh.
+56. down syndrome.ti,ab,sh.
+57. trisomy 21.ti,ab,sh.
+58. Aneuploidy/
+59. or/51-58
+60. 50 and 59
+61. antenatal*.ti,ab,sh.
+62. prenatal*.ti,ab,sh.
+63. trimester*.ti,ab,sh.
+64. pregnan*.ti,ab,sh.
+65. fetus.ti,ab,sh.
+66. foetus.ti,ab,sh.
+67. fetal.ti,ab,sh.
+68. foetal.ti,ab,sh.
+69. or/61-68
+70. 60 and 69
+71. humans/
+72. animal/
+73. 71 and 72
+74. animal/
+75. 73 not 74
+76. 70 not 75

@@ -1,0 +1,19 @@
+1. UTI.tw.
+2. UTIs.tw.
+3. 1 or 2
+4. Urinary Tract Infections/
+5. Pyelonephritis/
+6. urinary tract infection*.tw.
+7. pyelonephritis.tw.
+8. or/3-7
+9. Technetium Tc 99m Dimercaptosuccinic Acid/
+10. DMSA.tw.
+11. dimercaptosuccin*.tw.
+12. scintigra*.tw.
+13. Radionuclide Imaging/
+14. Succimer/du.tw.
+15. Kidney/ri.tw.
+16. or/9-15
+17. or/4,8,13.tw.
+18. 16 or 17
+19. 8 and 18

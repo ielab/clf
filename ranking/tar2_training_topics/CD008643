@@ -1,0 +1,93 @@
+1. clinical.tw.
+2. clinically.tw.
+3. 1 or 2
+4. diagnosis.tw.
+5. sign.tw.
+6. signs.tw.
+7. significance.tw.
+8. symptom*.tw.
+9. parameter*.tw.
+10. assessment.tw.
+11. finding*.tw.
+12. evaluat*.tw.
+13. indication*.tw.
+14. examination*.tw.
+15. or/4-14
+16. 3 and 15
+17. ra.fs.
+18. ri.fs.
+19. 17 or 18
+20. exp back pain/
+21. sciatica/
+22. back ache.tw.
+23. backache.tw.
+24. back pain.tw.
+25. dorsalgia.tw.
+26. lumbago.tw.
+27. sciatica.tw.
+28. exp Pain/
+29. pain.tw.
+30. ache*.tw.
+31. aching.tw.
+32. complaint*.tw.
+33. dysfunction*.tw.
+34. disabil*.tw.
+35. neuralgia.tw.
+36. or/20-35
+37. exp Back/
+38. exp spine/
+39. back.ti.
+40. lowback.tw.
+41. lumbar.tw.
+42. lumba*.tw.
+43. lumbo*.tw.
+44. sciatic*.tw.
+45. ischia*.tw.
+46. sacroilia*.tw.
+47. spine.tw.
+48. spinal.tw.
+49. radicular.tw.
+50. nerve root.tw.
+51. nerve roots.tw.
+52. disk.tw.
+53. disc.tw.
+54. disks.tw.
+55. discs.tw.
+56. vertebra*.tw.
+57. intervertebra*.tw.
+58. exp Sacroiliac-joint/
+59. exp Lumbar vertebrae/
+60. or/37-59
+61. Medical History Taking/
+62. history.tw.
+63. red flag.tw.
+64. red flags.mp.
+65. Physical examination/
+66. physical examination.tw.
+67. function test.tw.
+68. physical test.tw.
+69. Wounds and Injuries/
+70. trauma.tw.
+71. injury.tw.
+72. Accidental Falls/
+73. Fractures, Bone/
+74. Fractures, stress/
+75. Fractures, Spontaneous/
+76. Fractures, Compression/
+77. Fractures, Closed/
+78. fracture*.tw.
+79. Spinal Injuries/
+80. Spinal Diseases/
+81. Lumbar vertebrae/
+82. 16 or 19 or 36 or 60 or 61 or 62 or 63 or 64 or 65 or 66 or 67 or 68 or 69 or 70 or 71 or 72 or 73 or 74 or 75 or 76 or 77 or 78 or 79 or 80 or 81
+83. exp Child/
+84. exp Infant/
+85. 83 or 84
+86. exp Child/
+87. exp Infant/
+88. 86 or 87
+89. exp Adult/
+90. exp Adolescent/
+91. 89 or 90
+92. 88 and 91
+93. 82 and 92

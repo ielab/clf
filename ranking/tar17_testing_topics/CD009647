@@ -1,0 +1,238 @@
+1. senile.tw.
+2. senility.tw.
+3. 1 or 2
+4. geriatric.tw.
+5. geriatrics.tw.
+6. 4 or 5
+7. older adult*.tw.
+8. older people.tw.
+9. older person*.tw.
+10. older patient*.tw.
+11. older women.tw.
+12. older men.tw.
+13. or/7-12
+14. exp Aged/
+15. "sixty five and over".tw.
+16. nursing home*.tw.
+17. old age.tw.
+18. care home*.tw.
+19. aged.tw.
+20. elder*.tw.
+21. "65 and over".tw.
+22. sixty five years.tw.
+23. 3 or 6 or 13 or 14 or 15 or 16 or 17 or 18 or 19 or 20 or 21 or 22
+24. (exp Infant or exp Child or Adolescent/)
+25. 23 and 24
+26. Adult/
+27. Middle Aged/
+28. 26 or 27
+29. Adult/
+30. Middle Aged/
+31. 29 or 30
+32. Aged/
+33. "Aged to 80 and Over"/
+34. Frail Elderly/
+35. or/32-34
+36. 31 and 35
+37. 28 not 36
+38. 25 and 37
+39. fluid*.tw.
+40. water.tw.
+41. 39 or 40
+42. balance*.tw.
+43. imbalance*.tw.
+44. status.tw.
+45. body.tw.
+46. extracellular.tw.
+47. intracellular.tw.
+48. or/42-47
+49. 41 adj3 48
+50. tonicit*.tw.
+51. hypertonic*.tw.
+52. hypotonic*.tw.
+53. or/50-52
+54. plasma*.tw.
+55. 53 adj3 54
+56. dehydrat*.tw.
+57. hydrat*.tw.
+58. 56 or 57
+59. hypokal*.tw.
+60. hyperkal*.tw.
+61. hyponatr*.tw.
+62. hypernatr*.tw.
+63. or/59-62
+64. Hyperkalemia/
+65. Dehydration/
+66. Water-electrolyte Balance/
+67. osmolalit*.tw.
+68. Water-electrolyte Imbalance/
+69. hypovolemi*.tw.
+70. Hypernatremia/
+71. Hyponatremia/
+72. Osmolar Concentration/
+73. Hypovolemia/
+74. (hemoconcentrat*.tw. or haemoconcentrat*.tw.)
+75. Hypokalemia/
+76. 49 or 55 or 58 or 63 or 64 or 65 or 66 or 67 or 68 or 69 or 70 or 71 or 72 or 73 or 74 or 75
+77. systolic.tw.
+78. diastolic.tw.
+79. 77 or 78
+80. pressure*.tw.
+81. 79 adj3 80
+82. dizz*.tw.
+83. lightheaded*.tw.
+84. orthostasis.tw.
+85. or/82-84
+86. pulse.tw.
+87. heart.tw.
+88. 86 or 87
+89. rapid*.tw.
+90. change*.tw.
+91. fast.tw.
+92. or/89-91
+93. 88 adj3 92
+94. exp Blood Pressure/
+95. Dizziness/
+96. Heart Rate/
+97. Pulse/
+98. 81 or 85 or 93 or 94 or 95 or 96 or 97
+99. postural.tw.
+100. stand*.tw.
+101. upright*.tw.
+102. or/99-101
+103. 98 and 102
+104. clinical*.tw.
+105. physical.tw.
+106. 104 or 105
+107. sign*.tw.
+108. symptom*.tw.
+109. exam*.tw.
+110. finding*.tw.
+111. assess*.tw.
+112. or/107-111
+113. 106 adj3 112
+114. capillar*.tw.
+115. refill*.tw.
+116. 114 adj3 115
+117. epiderm*.tw.
+118. skin*.tw.
+119. transepiderm*.tw.
+120. transderm*.tw.
+121. or/117-120
+122. water*.tw.
+123. fluid*.tw.
+124. temperature.tw.
+125. or/122-124
+126. 121 adj3 125
+127. thermal.tw.
+128. temperature*.tw.
+129. 127 or 128
+130. regulat*.tw.
+131. control*.tw.
+132. 130 or 131
+133. 129 adj3 132
+134. Muscle Weakness/
+135. "Upper Extremity or Arm"/
+136. 134 and 135
+137. fluid*.tw.
+138. water.tw.
+139. 137 or 138
+140. balance.tw.
+141. chart*.tw.
+142. record*.tw.
+143. diary.tw.
+144. diaries.tw.
+145. or/140-144
+146. 139 adj3 145
+147. weak.tw.
+148. weakness.tw.
+149. 147 or 148
+150. arm*.tw.
+151. upper limb*.tw.
+152. upper extremit*.tw.
+153. or/150-152
+154. 149 adj3 153
+155. thermoregulat*.tw.
+156. thermogenesis.tw.
+157. sweating.tw.
+158. or/155-157
+159. skin.tw.
+160. epiderm*.tw.
+161. dermal.tw.
+162. or/159-161
+163. blood flow*.tw.
+164. 162 adj3 163
+165. weight.tw.
+166. BMI.tw.
+167. body mass index.tw.
+168. or/165-167
+169. loss.tw.
+170. lost.tw.
+171. lose.tw.
+172. losing.tw.
+173. fall*.tw.
+174. reduc*.tw.
+175. chang*.tw.
+176. or/169-175
+177. 168 adj3 176
+178. impedance*.tw.
+179. bioimpedance.tw.
+180. BIA.tw.
+181. or/178-180
+182. Body Temperature Regulation/
+183. Skin Temperature/
+184. Weight Loss/
+185. Plethysmography, Impedance/
+186. Electric Impedance/
+187. Physical Examination/
+188. Body Weight Changes/
+189. Water Loss, Insensible/
+190. Thermogenesis/
+191. Sweating/
+192. 113 or 116 or 126 or 133 or 136 or 146 or 154 or 158 or 164 or 177 or 181 or 182 or 183 or 184 or 185 or 186 or 187 or 188 or 189 or 190 or 191
+193. tongue*.tw.
+194. axilla*.tw.
+195. armpit*.tw.
+196. skin.tw.
+197. or/193-196
+198. mucous membrane*.tw.
+199. mucosal tissue*.tw.
+200. mucosa.tw.
+201. or/198-200
+202. Mucous Membrane/
+203. Mouth Mucosa/
+204. Respiratory Mucosa/
+205. exp Nasal Mucosa/
+206. Tongue/
+207. Axilla/
+208. Skin/
+209. 197 or 201 or 202 or 203 or 204 or 205 or 206 or 207 or 208
+210. dry.tw.
+211. dried.tw.
+212. furrow*.tw.
+213. turgid.tw.
+214. turgor.tw.
+215. damp*.tw.
+216. or/210-215
+217. 209 and 216
+218. eye.tw.
+219. eyes.tw.
+220. 218 or 219
+221. exp Eye/
+222. 220 or 221
+223. dry.tw.
+224. dried.tw.
+225. sunk*.tw.
+226. or/223-225
+227. 222 and 226
+228. volume*.tw.
+229. (colour.tw. or color.tw.)
+230. dark*.tw.
+231. gravit*.tw.
+232. concentration.tw.
+233. or/228-232
+234. urin*.tw.
+235. 233 adj3 234
+236. Urine/
+237. 103 or 192 or 217 or 227 or 235 or 236
+238. 38 and 76 and 237

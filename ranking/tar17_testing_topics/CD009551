@@ -1,0 +1,13 @@
+1. aspergillosis.ti,ab.
+2. aspergillus.ti,ab.
+3. aspergilloma.ti,ab.
+4. or/1-3
+5. exp Aspergillus/
+6. exp Aspergillosis/
+7. exp Pulmonary Aspergillosis/
+8. or/4-7
+9. exp Nucleic Acid Amplification Techniques/
+10. pcr.ti,ab.
+11. "polymerase chain reaction*".ti,ab.
+12. or/9-11
+13. 8 and 12

@@ -1,0 +1,30 @@
+1. ovar*.rn.
+2. fallopian tube*.ti,ab,sh.
+3. 1 or 2
+4. cancer*.ti,ab,sh.
+5. tumor*.ti,ab,sh.
+6. tumour*.ti,ab,sh.
+7. adenocarcinoma*.ti,ab,sh.
+8. carcino*.ti,ab,sh.
+9. cystadenocarcinoma*.rs.
+10. choriocarcinoma*.rn.
+11. malignan*.rs.
+12. neoplas*.rs.
+13. metasta*.rs.
+14. mass.rs.
+15. masses.rs.
+16. or/4-15
+17. 3 adj5 16
+18. thecoma*.rs.
+19. luteoma*.rs.
+20. 18 or 19
+21. Fallopian Tube Neoplasms/
+22. exp Ovarian Neoplasms/
+23. 17 or 20 or 21 or 22
+24. celioscop*.rs.
+25. peritoneoscop*.rn.
+26. abdominoscop*.ti,ab,sh.
+27. exp Laparoscopy/
+28. laparoscop*.rn.
+29. or/24-28
+30. 23 and 29

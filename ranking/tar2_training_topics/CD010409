@@ -1,0 +1,104 @@
+1. lymphoscintigraph*.tw.
+2. lymphoscintigram*.tw.
+3. 1 or 2
+4. scintiphotograph*.tw.
+5. scintigraph*.tw.
+6. scintigram*.tw.
+7. or/4-6
+8. trace.tw.
+9. tracing.tw.
+10. traceable.tw.
+11. or/8-10
+12. agent*1.tw.
+13. 11 adj 12
+14. microbubble.tw.
+15. micro-bubble.tw.
+16. 14 or 15
+17. haematoxylin.tw.
+18. eosin.tw.
+19. 17 adj2 18
+20. hematoxylin.tw.
+21. eosin.tw.
+22. 20 adj2 21
+23. 19 or 22
+24. camera*1.tw.
+25. counter*1.tw.
+26. probe*1.tw.
+27. or/24-26
+28. gamma.tw.
+29. 27 adj3 28
+30. immuno-histo-chemistry.tw.
+31. immunohistochemistry.tw.
+32. immunohistochemical.tw.
+33. immuno-histo-chemical.tw.
+34. or/30-33
+35. localisation.tw.
+36. localization.tw.
+37. 35 or 36
+38. groin.tw.
+39. inguin*.tw.
+40. 38 or 39
+41. dissect*.tw.
+42. status.tw.
+43. node*1.tw.
+44. or/41-43
+45. 40 adj3 44
+46. lymph node*1.tw.
+47. lymph nodal.tw.
+48. 46 or 47
+49. assess*.tw.
+50. evaluat*.tw.
+51. observ*.tw.
+52. involve*.tw.
+53. biopsy.tw.
+54. biopsies.tw.
+55. or/49-54
+56. 48 adj3 55
+57. technetium.ti,ab,sh.
+58. tc 99m*.ti,ab,sh.
+59. 99mtc*.ti,ab,sh.
+60. blue dye*1.ti,ab,sh.
+61. patent blue.ti,ab,sh.
+62. methylene blue.ti,ab,sh.
+63. isosulfan.ti,ab,sh.
+64. iso sulfan.ti,ab,sh.
+65. lymphazurin blue.ti,ab,sh.
+66. radiocolloid*.ti,ab,sh.
+67. or/57-66
+68. sentin?l.tw.
+69. node*1.tw.
+70. 68 adj3 69
+71. tracer.tw.
+72. tracers.tw.
+73. 71 or 72
+74. ultrastaging.tw.
+75. ultra staging.tw.
+76. 74 or 75
+77. microsection*.tw.
+78. micro section*.tw.
+79. 77 or 78
+80. radioisotope*.tw.
+81. Fluorescence/
+82. cytokeratin.tw.
+83. Gamma Cameras/
+84. Rosaniline Dyes/
+85. Coloring Agents/
+86. Technetium Tc 99m Aggregated Albumin/
+87. Lymph Nodes/
+88. Sentinel Lymph Node Biopsy/
+89. paraffin.tw.
+90. Frozen Sections/
+91. Technetium Tc 99m Sulfur Colloid/
+92. Radiopharmaceuticals/
+93. Lymphography/
+94. frozen section*.tw.
+95. Methylene Blue/
+96. radiotracer*.tw.
+97. fluorescen*.tw.
+98. 3 or 7 or 13 or 16 or 23 or 29 or 34 or 37 or 45 or 56 or 67 or 70 or 73 or 76 or 79 or 80 or 81 or 82 or 83 or 84 or 85 or 86 or 87 or 88 or 89 or 90 or 91 or 92 or 93 or 94 or 95 or 96 or 97
+99. Lymph Nodes/
+100. 98 and 99
+101. exp animals/
+102. humans/
+103. 101 not 102
+104. 100 not 103

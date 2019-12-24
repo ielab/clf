@@ -1,0 +1,29 @@
+1. exp Leishmania infantum/
+2. kala-azar.ti,ab.
+3. Leishmania chagasi.ti,ab.
+4. Visceral leishmania*.ti,ab.
+5. exp Leishmaniasis, visceral/
+6. exp Leishmania donovani/
+7. or/1-6
+8. K39.ti,ab.
+9. rK39.ti,ab.
+10. 8 or 9
+11. ELISA.ti,ab.
+12. "K26 antigen, Leishmania".ti,ab.
+13. RDT.ti,ab.
+14. Antigen* detect*.ti,ab.
+15. Dipstick*.ti,ab.
+16. Immunoblotting/
+17. Serological tests/
+18. "K39 antigen, Leishmania".ti,ab.
+19. Rapid diagnostic test*.ti,ab.
+20. Antibod* detect*.ti,ab.
+21. Latex Fixation Tests/
+22. Lateral flow test.ti,ab.
+23. Enzyme-Linked Immunosorbent Assay/
+24. Serodiagnostic test*.ti,ab.
+25. Strip test*.ti,ab.
+26. Direct agglutination test*.ti,ab.
+27. Reagent kits, diagnostic/
+28. or/10-27
+29. 7 and 28

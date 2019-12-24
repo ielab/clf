@@ -1,0 +1,75 @@
+1. ampulla vateri.ti,ab.
+2. Ampulla of Vater/
+3. ampullovateric.ti,ab.
+4. papilla vateri.ti,ab.
+5. vater papilla.ti,ab.
+6. vater ampulla.ti,ab.
+7. peri-ampull*.ti,ab.
+8. periampull*.ti,ab.
+9. choledoch*.ti,ab.
+10. alcholedoch*.ti,ab.
+11. bile duct*.ti,ab.
+12. biliary.ti,ab.
+13. cholangio*.ti,ab.
+14. gall duct.ti,ab.
+15. duodenum.ti,ab.
+16. duodenal.ti,ab.
+17. duoden*.ti,ab.
+18. small bowel.ti,ab.
+19. small instestin*.ti,ab.
+20. enteral.ti,ab.
+21. enteric.ti,ab.
+22. enter*.ti,ab.
+23. pancreatic.ti,ab.
+24. pancreato*.ti,ab.
+25. pancreas*.ti,ab.
+26. or/1-25
+27. carcinoma.ti,ab.
+28. carcinomas.ti,ab.
+29. carcin*.ti,ab.
+30. cancer*.ti,ab.
+31. neoplas*.ti,ab.
+32. tumor.ti,ab.
+33. tumors.ti,ab.
+34. tumorous.ti,ab.
+35. tumour*.ti,ab.
+36. tumor*.ti,ab.
+37. cyst.ti,ab.
+38. cysts.ti,ab.
+39. cystic.ti,ab.
+40. cyst*.ti,ab.
+41. growth*.ti,ab.
+42. adenocarcin*.ti,ab.
+43. malignant.ti,ab.
+44. malignancy.ti,ab.
+45. or/27-44
+46. 26 and 45
+47. Duodenal Neoplasms/
+48. Pancreatic Neoplasms/
+49. Common Bile Duct Neoplasms/
+50. or/46-49
+51. surger*.ti,ab.
+52. operat*.ti,ab.
+53. resection*.ti,ab.
+54. surgical*.ti,ab.
+55. Surgical Procedures, Operative/
+56. General Surgery/
+57. or/51-56
+58. 50 and 57
+59. exp pancreatect*.ti,ab.
+60. exp pancreaticojejunost*.ti,ab.
+61. exp pancreaticogastros*.ti,ab.
+62. exp pancreaticoduodenect*.ti,ab.
+63. exp duodenopancreatectom*.ti,ab.
+64. exp Pancreatectomy/
+65. exp Pancreaticojejunostomy/
+66. exp Pancreaticoduodenectomy/
+67. or/59-66
+68. 58 or 67
+69. laparoscop*.ti,ab.
+70. peritoneoscop*.ti,ab.
+71. celioscop*.ti,ab.
+72. coelioscop*.ti,ab.
+73. Laparoscopy/
+74. or/69-73
+75. 68 and 74

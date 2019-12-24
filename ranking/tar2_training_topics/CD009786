@@ -1,0 +1,32 @@
+1. humans/
+2. animals
+3. 1 not 2
+4. ovar*.tw.
+5. fallopian tube*.tw.
+6. 4 or 5
+7. cancer*.tw.
+8. tumor*.tw.
+9. tumour*.tw.
+10. adenocarcinoma*.tw.
+11. carcino*.tw.
+12. cystadenocarcinoma*.tw.
+13. choriocarcinoma*.tw.
+14. malignan*.tw.
+15. neoplas*.tw.
+16. metasta*.tw.
+17. mass.tw.
+18. masses.tw.
+19. or/7-18
+20. 6 adj5 19
+21. thecoma*.tw.
+22. luteoma*.tw.
+23. 21 or 22
+24. Ovarian Neoplasms/
+25. Fallopian Tube Neoplasms/
+26. 20 or 23 or 24 or 25
+27. Laparoscopy/
+28. laparoscop*.tw.
+29. celioscop*.tw.
+30. peritoneoscop*.tw.
+31. abdominoscop*.tw.
+32. or/27-31

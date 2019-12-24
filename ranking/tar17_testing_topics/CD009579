@@ -1,0 +1,45 @@
+1. "schistosoma mansoni".ti,ab.
+2. "schistosoma haematobium".ti,ab.
+3. 1 or 2
+4. anodic.ti,ab.
+5. antigen*.ti,ab.
+6. 4 adj3 5
+7. test.ti,ab.
+8. strip*.ti,ab.
+9. 7 adj3 8
+10. cathodic.ti,ab.
+11. antigen*.ti,ab.
+12. 10 adj3 11
+13. reagent.ti,ab.
+14. strip*.ti,ab.
+15. 13 adj3 14
+16. exp Immunoenzyme Techniques/
+17. (hematuria.tw. or exp proteinuria/)
+18. leukocyturia.ti,ab.
+19. albuminuria.ti,ab.
+20. urinalysis.ti,ab.
+21. exp Glycoproteins/
+22. exp Schistosoma haematobium/
+23. leucocyturia.ti,ab.
+24. proteinuria.ti,ab.
+25. CCA.ti,ab.
+26. eia.ti,ab.
+27. haemastix.ti,ab.
+28. exp Enzyme-Linked Immunosorbent Assay/
+29. (exp Reagent Strips/ or dipstick.tw.)
+30. exp Schistosoma mansoni/
+31. CAA.ti,ab.
+32. elisa.ti,ab.
+33. exp Antigens, Helminth/
+34. exp Helminth Proteins/
+35. exp Antibodies, Monoclonal/
+36. (hematuria.ti,ab. or haematuria.ti,ab.)
+37. 3 or 6 or 9 or 12 or 15 or 16 or 17 or 18 or 19 or 20 or 21 or 22 or 23 or 24 or 25 or 26 or 27 or 28 or 29 or 30 or 31 or 32 or 33 or 34 or 35 or 36
+38. schistosomiasis/
+39. schistosomiasis haematobia/
+40. schistosomiasis mansoni/
+41. or/38-40
+42. schistosomiasis.ti,ab.
+43. bilharzia*.ti,ab.
+44. or/41-43
+45. 37 and 44

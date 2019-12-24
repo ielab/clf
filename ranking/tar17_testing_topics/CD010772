@@ -1,0 +1,14 @@
+1. dement*.ti,ab.
+2. screening.ti,ab.
+3. 1 or 2
+4. "informant* questionnair*".ti,ab.
+5. 3 adj3 4
+6. dement*.ti,ab.
+7. alzheimer*.ti,ab.
+8. 6 or 7
+9. "screening test*".ti,ab.
+10. 8 adj2 9
+11. IQCODE.ti,ab.
+12. "informant questionnaire on cognitive decline in the elderly".ti,ab.
+13. "IQ code".ti,ab.
+14. 5 or 10 or 11 or 12 or 13

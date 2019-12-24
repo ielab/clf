@@ -1,0 +1,70 @@
+1. false positive*.rn.
+2. false negative*.ti,ab.
+3. 1 or 2
+4. unconjugated estriol.ti,ab.
+5. unconjugated oestriol.rn.
+6. 4 or 5
+7. exp false negative reactions/
+8. exp false positive reactions/
+9. 7 or 8
+10. b-hcg.rs.
+11. bhcg.ti,ab.
+12. 10 or 11
+13. exp Prenatal Diagnosis/
+14. nuchal translucency.ti,ab.
+15. exp Chorionic Gonadotropin, beta Subunit, Human/
+16. reference value*.tw.
+17. reference standard*.tw.
+18. AUC.rs.
+19. sensitiv*.ti,ab.
+20. exp alpha-Fetoproteins/
+21. alpha-fetoprotein*.tw.
+22. exp INHIBINS/
+23. inhibin a.ti,ab.
+24. nasal bone.ti,ab.
+25. Area under curve/
+26. likelihood ratio*.tw.
+27. exp Pregnancy-Associated Plasma Protein-A/
+28. human chorionic gonadotropin.tw.
+29. chorion* vill* sampling.ti,ab.
+30. detect*.tw.
+31. ROC.rn.
+32. diagnos*.ti,ab.
+33. pregnancy associated plasma protein-a.ti,ab.
+34. papp-a.tw.
+35. ue3.tw.
+36. amniocentesis/
+37. specific*.tw.
+38. ROC curve/
+39. tricuspid regurgitation.ti,ab.
+40.
+41. screen*.tw.
+42. predict*.tw.
+43. "reproducibility of results".ti,ab.
+44. alphafetoprotein*.ti,ab.
+45. afp.ti,ab.
+46. Chorionic Villi-Sampling/
+47. marker*.tw.
+48. accura*.tw.
+49. ultrasound.tw.
+50. 3 or 6 or 9 or 12 or 13 or 14 or 15 or 16 or 17 or 18 or 19 or 20 or 21 or 22 or 23 or 24 or 25 or 26 or 27 or 28 or 29 or 30 or 31 or 32 or 33 or 34 or 35 or 36 or 37 or 38 or 39 or 41 or 42 or 43 or 44 or 45 or 46 or 47 or 48 or 49
+51. aneuploidy.tw.
+52. Mosaicism/
+53. mosaicism.tw.
+54. exp Down Syndrome/
+55. downs syndrome.ti,ab.
+56. down syndrome.tw.
+57. trisomy 21.tw.
+58. Aneuploidy/
+59. or/51-58
+60. 50 and 59
+61. antenatal*.tw.
+62. prenatal*.tw.
+63. trimester*.tw.
+64. pregnan*.tw.
+65. fetus.tw.
+66. foetus.tw.
+67. fetal.ti,ab.
+68. foetal.tw.
+69. or/61-68
+70. 60 and 69

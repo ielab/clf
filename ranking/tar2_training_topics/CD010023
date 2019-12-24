@@ -1,0 +1,66 @@
+1. magnetic resonance.tw.
+2. MR.tw.
+3. NMR.tw.
+4. or/1-3
+5. imag*.tw.
+6. tomograph*.tw.
+7. scan*.tw.
+8. or/5-7
+9. 4 adj2 8
+10. MRI.tw.
+11. MRIs.tw.
+12. NMRI.tw.
+13. or/10-12
+14. diffusion weighted imag*.tw.
+15. DWI.tw.
+16. T2-weighted imag*.tw.
+17. or/14-16
+18. exp Magnetic Resonance Imaging/
+19. 9 or 13 or 17 or 18
+20. comput*.tw.
+21. tomograph*.tw.
+22. 20 adj3 21
+23. CT.tw.
+24. CAT.tw.
+25. 23 or 24
+26. micro-computed tomog*.tw.
+27. exp Tomography, X-Ray Computed/
+28. 22 or 25 or 26 or 27
+29. scintigra*.tw.
+30. radioscintigra*.tw.
+31. 29 or 30
+32. bone.tw.
+33. scan.tw.
+34. 32 adj3 33
+35. scintiscan*.tw.
+36. Radionuclide Imaging/
+37. 31 or 34 or 35 or 36
+38. 19 or 28 or 37
+39. Scaphoid bone/
+40. Wrist injuries/
+41. Wrist Joint/
+42. or/39-41
+43. exp Fractures, Bone/
+44. 42 and 43
+45. Scaphoid*.tw.
+46. wrist.tw.
+47. navicular.tw.
+48. or/45-47
+49. fracture*.tw.
+50. injur*.tw.
+51. trauma.tw.
+52. or/49-51
+53. 48 adj3 52
+54. 44 or 53
+55. 38 and 54
+56. Diagnostic Imaging/
+57. Diagnosis, Differential/
+58. "Sensitivity and Specificity"/
+59. "Predictive Value of Tests"/
+60. or/56-59
+61. scaphoid.ti,ab,sh.
+62. 60 and 61
+63. scaphoid.ti,ab,sh.
+64. Fractures, Bone/
+65. 63 and 64
+66. 55 or 62 or 65

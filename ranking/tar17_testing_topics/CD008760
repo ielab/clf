@@ -1,0 +1,42 @@
+1. capsule enteroscop*.ti,ab,sh.
+2. enteroscop* capsule*.rn.
+3. capsule endoscop*.rs.
+4. endoscop* capsule*.ti,ab,sh.
+5. capsule esophagoscop*.rn.
+6. capsule oesophagoscop*.rs.
+7. esophag* capsule*.rn.
+8. oesophag* capsule*.ti,ab,sh.
+9. pillcam.rn.
+10. endocapsule.rn.
+11. microcam.rs.
+12. video capsule*.rn.
+13. videocapsule*.rs.
+14. or/1-13
+15. esophag* varic*.rn.
+16. esophag* varix.ti,ab,sh.
+17. esophago gastric varic*.ti,ab,sh.
+18. esophago gastric varix.rn.
+19. gastro esophag* varic*.rs.
+20. gastro esophag* varix.ti,ab,sh.
+21. gastro oesophag* varic*.rn.
+22. gastro oesophag* varix.rn.
+23. gastroesophag* varic*.ti,ab,sh.
+24. gastroesophag* varix.ti,ab,sh.
+25. gastrooesophag* varic*.rn.
+26. gastrooesophag* varix.rn.
+27. oesophag* varic*.ti,ab,sh.
+28. oesophag* varix.rn.
+29. oesophago gastric varic*.rn.
+30. oesophago gastric varix.rn.
+31. paraesophag* varic*.ti,ab,sh.
+32. paraesophag* varix.rn.
+33. paraoesophag* varic*.ti,ab,sh.
+34. paraoesophag* varix.rn.
+35. periesophag* varic*.ti,ab,sh.
+36. periesophag* varix.ti,ab,sh.
+37. perioesophag* varic*.rn.
+38. perioesophag* varix.rs.
+39. or/15-38
+40. "Esophageal and Gastric Varices"/
+41. 39 or 40
+42. 14 and 41

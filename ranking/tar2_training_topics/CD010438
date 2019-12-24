@@ -1,0 +1,22 @@
+1. thromb*.ti,ab,sh.
+2. elastogra*.ti,ab,sh.
+3. 1 adj2 2
+4. Thrombelastogra*.ti,ab,sh.
+5. Thromboelastogra*.ti,ab,sh.
+6. TEG.ti,ab,sh.
+7. haemoscope.ti,ab,sh.
+8. haemonetics.ti,ab,sh.
+9. or/3-8
+10. thromb*.ti,ab,sh.
+11. elastom*.ti,ab,sh.
+12. 10 adj2 11
+13. rotational.ti,ab,sh.
+14. thrombelast.ti,ab,sh.
+15. 13 adj2 14
+16. thromboelasto*.ti,ab,sh.
+17. thrombelasto*.ti,ab,sh.
+18. ROTEM.ti,ab,sh.
+19. "tem international".ti,ab,sh.
+20. 12 or 15 or 16 or 17 or 18 or 19
+21. Thrombelastography/
+22. 9 or 20 or 21

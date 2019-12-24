@@ -1,0 +1,215 @@
+1. exp Mouth/
+2. Cheek/
+3. 1 or 2
+4. tumor*.tw.
+5. tumour*.tw.
+6. cancer*.tw.
+7. carcinoma*.tw.
+8. carcinogen*.tw.
+9. neoplas*.tw.
+10. malignan*.ti,ab.
+11. metasta*.ti,ab.
+12. dysplas*.tw.
+13. lesion*.tw.
+14. ulcer*.tw.
+15. or/4-14
+16. actinic.tw.
+17. keratosis.ti,ab.
+18. 16 adj2 17
+19. pre-cancer*.ti,ab.
+20. precancer*.ti,ab.
+21. premalignan*.tw.
+22. precursor*.ti,ab.
+23. "lichen planus".tw.
+24. leukoplakia.tw.
+25. "submucous fibrosis".tw.
+26. candidiasis.tw.
+27. erythroplakia.tw.
+28. erythroplas*.tw.
+29. erythroleukoplakia.tw.
+30. hyperplas*.tw.
+31. hyperkeratos*.tw.
+32. or/18-31
+33. exp Carcinoma, squamous cell/
+34. exp Precancerous conditions/
+35. 15 or 32 or 33 or 34
+36. 3 and 35
+37. oral.ti,ab.
+38. mucosa*.ti,ab.
+39. 37 adj 38
+40. mouth.tw.
+41. mucosa*.ti,ab.
+42. 40 adj 41
+43. oral*.tw.
+44. mouth*.tw.
+45. bucca*.tw.
+46. "oral cavit*".tw.
+47. lip.tw.
+48. lips.ti,ab.
+49. tongue*.ti,ab.
+50. gingiv*.tw.
+51. palat*.tw.
+52. cheek*.tw.
+53. "intra oral*".ti,ab.
+54. intraoral*.ti,ab.
+55. gum.tw.
+56. gums.ti,ab.
+57. labial*.tw.
+58. 39 or 42 or 43 or 44 or 45 or 46 or 47 or 48 or 49 or 50 or 51 or 52 or 53 or 54 or 55 or 56 or 57
+59. actinic.tw.
+60. keratosis.tw.
+61. 59 adj2 60
+62. tumor*.tw.
+63. tumour*.tw.
+64. cancer*.tw.
+65. carcinoma*.ti,ab.
+66. carcinogen*.tw.
+67. neoplas*.ti,ab.
+68. malignan*.tw.
+69. metasta*.ti,ab.
+70. dysplas*.ti,ab.
+71. lesion*.tw.
+72. ulcer*.tw.
+73. pre-cancer*.tw.
+74. precancer*.tw.
+75. premalignan*.tw.
+76. precursor*.tw.
+77. "lichen planus".ti,ab.
+78. leukoplakia.tw.
+79. "submucous fibrosis".tw.
+80. candidiasis.ti,ab.
+81. erythroplakia.tw.
+82. erythroplas*.tw.
+83. erythroleukoplakia.tw.
+84. hyperplas*.tw.
+85. hyperkerato*.ti,ab.
+86. or/61-85
+87. 58 adj3 86
+88. exp Mouth neoplasms/
+89. Lichen Planus, Oral/
+90. Oral submucous fibrosis/
+91. Oral candidiasis/
+92. or/87-91
+93. 36 or 92
+94. brush.ti,ab.
+95. biops*.ti,ab.
+96. 94 adj3 95
+97. analy*.tw.
+98. screen*.ti,ab.
+99. test*.tw.
+100. examin*.tw.
+101. or/97-100
+102. blood.tw.
+103. saliva.tw.
+104. 102 or 103
+105. 101 adj3 104
+106. cytodiagnosis.tw.
+107. cytopathology.tw.
+108. 106 or 107
+109. brush*.ti,ab.
+110. 108 and 109
+111. (visualisation.ti,ab. or visualization.ti,ab.)
+112. adjunct*.tw.
+113. 111 adj3 112
+114. "tolonium chloride".ti,ab.
+115. "toludine blue".tw.
+116. "toludine b".ti,ab.
+117. tblue.tw.
+118. t-blue.tw.
+119. or/114-118
+120. wash*.ti,ab.
+121. rins*.tw.
+122. 120 or 121
+123. acetic acid.tw.
+124. 122 adj3 123
+125. oral*.tw.
+126. mouth*.tw.
+127. 125 or 126
+128. exam*.tw.
+129. histolog*.ti,ab.
+130. check*.ti,ab.
+131. inspect*.tw.
+132. or/128-131
+133. 127 adj5 132
+134. dye*.tw.
+135. rins*.tw.
+136. stain*.tw.
+137. wash*.ti,ab.
+138. or/134-137
+139. tolu?dine.tw.
+140. 138 adj6 139
+141. tissue.tw.
+142. reflect*.tw.
+143. 141 adj3 142
+144. vizilite.ti,ab.
+145. microlux*.tw.
+146. orascoptic.tw.
+147. velscope.tw.
+148. or/144-147
+149. tumor*.tw.
+150. tumour*.tw.
+151. cancer*.tw.
+152. carcinoma*.tw.
+153. neoplas*.tw.
+154. carcinogen*.tw.
+155. malignan*.tw.
+156. metata*.tw.
+157. lesion*.tw.
+158. ulcer*.tw.
+159. or/149-158
+160. fluorescen*.tw.
+161. autofluorescen*.tw.
+162. luminescen*.ti,ab.
+163. chemiluminescen*.tw.
+164. or/160-163
+165. 159 adj5 164
+166. exam*.ti,ab.
+167. inspect*.ti,ab.
+168. screen*.tw.
+169. or/166-168
+170. visual*.tw.
+171. 169 adj3 170
+172. "oral cdx".tw.
+173. oralcdx.tw.
+174. 172 or 173
+175. "light emitting diode".tw.
+176. "blue spectrum".tw.
+177. LED.tw.
+178. luminous*.ti,ab.
+179. or/175-178
+180. visual*.ti,ab.
+181. 179 adj5 180
+182. ("tumor marker*".tw. or "tumour marker*".tw.)
+183. "neoplas* marker*".tw.
+184. 182 or 183
+185. blood.tw.
+186. saliva.tw.
+187. 185 or 186
+188. 184 adj3 187
+189. exfoliat*.ti,ab.
+190. cytolog*.tw.
+191. 189 adj3 190
+192. "modified liquid based cytology".ti,ab.
+193. 191 or 192
+194. exp Luminescent Agents/
+195. Light/
+196. Tumor Markers, Biological/
+197. Physical examination/
+198. Cytodiagnosis/
+199. Spectrophotometry/
+200. Fluorescence/
+201. lumenoscop*.ti,ab.
+202. acetowhite.ti,ab.
+203. Cytophotometry/
+204. Spectrometry, fluorescence/
+205. Acetic acid/
+206. Mass screening/
+207. exp Luminescence/
+208. Tolonium chloride/
+209. Saliva/
+210. Diagnosis, Oral/
+211. Cytological techniques/
+212. Tomography, Optical Coherence/
+213. Coloring agents/
+214. 96 or 105 or 110 or 113 or 119 or 124 or 133 or 140 or 143 or 148 or 165 or 171 or 174 or 181 or 188 or 193 or 194 or 195 or 196 or 197 or 198 or 199 or 200 or 201 or 202 or 203 or 204 or 205 or 206 or 207 or 208 or 209 or 210 or 211 or 212 or 213
+215. 93 and 214
